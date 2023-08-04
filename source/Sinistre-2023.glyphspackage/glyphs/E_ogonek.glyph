@@ -1,0 +1,104 @@
+{
+glyphname = Eogonek;
+kernLeft = D;
+kernRight = E;
+layers = (
+{
+layerId = "452AD06C-4D92-427C-8B35-838986F56274";
+shapes = (
+{
+ref = E;
+},
+{
+alignment = -1;
+angle = -16.00017;
+pos = (315,16);
+ref = ogonekcomb;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 551;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = E;
+},
+{
+alignment = -1;
+angle = -3.99988;
+pos = (408,26);
+ref = ogonekcomb;
+scale = (1.1522,1);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 684;
+},
+{
+layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+angle = -9.43754;
+pos = (376,21);
+ref = ogonekcomb;
+scale = (1.0832,1);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 633.59375;
+}
+);
+unicode = 280;
+}

@@ -1,0 +1,101 @@
+{
+glyphname = kcommaaccent;
+kernLeft = l;
+kernRight = e;
+layers = (
+{
+layerId = "452AD06C-4D92-427C-8B35-838986F56274";
+shapes = (
+{
+ref = k;
+},
+{
+alignment = -1;
+pos = (129,-61);
+ref = commaaccentcomb;
+scale = (0.841,1.0712);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 489;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = k;
+},
+{
+alignment = -1;
+pos = (173,-97);
+ref = commaaccentcomb;
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 627;
+},
+{
+layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
+shapes = (
+{
+alignment = -1;
+ref = k;
+},
+{
+alignment = -1;
+pos = (144,-81);
+ref = commaaccentcomb;
+scale = (0.9279,1.0322);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 576.5;
+}
+);
+unicode = 311;
+}

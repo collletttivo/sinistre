@@ -1,0 +1,131 @@
+{
+color = 1;
+export = 0;
+glyphname = acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (134,500);
+},
+{
+name = top;
+pos = (134,665);
+}
+);
+layerId = "452AD06C-4D92-427C-8B35-838986F56274";
+shapes = (
+{
+closed = 1;
+nodes = (
+(226,636,l),
+(197,685,l),
+(29,562,l),
+(33,556,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 260;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (134,500);
+},
+{
+name = top;
+pos = (134,665);
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(303,615,l),
+(237,744,l),
+(-4,567,l),
+(14,534,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 392;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (134,500);
+},
+{
+name = top;
+pos = (134,665);
+}
+);
+layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
+shapes = (
+{
+closed = 1;
+nodes = (
+(247,603,l),
+(217,699,l),
+(30,589,l),
+(39,568,l)
+);
+}
+);
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
+width = 332.1875;
+}
+);
+unicode = 769;
+}
