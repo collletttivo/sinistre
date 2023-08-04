@@ -1,0 +1,147 @@
+{
+.appVersion = "3151";
+.formatVersion = 3;
+fontPath = Sinistre.glyphspackage;
+instances = (
+{
+axesValues = (
+72
+);
+customParameters = (
+{
+name = "Remove Glyphs";
+value = (
+dog,
+hand,
+magic,
+rose,
+europeanCastle,
+dragon,
+dragonFace,
+daggerKnife,
+wiltedFlower,
+crossedSwords
+);
+},
+{
+name = "Webfont Formats";
+value = (
+woff2
+);
+},
+{
+name = "Webfont Only";
+value = 1;
+},
+{
+name = "Remove post names for webfonts";
+value = 1;
+},
+{
+name = Autohint;
+value = 1;
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+name = Regular;
+},
+{
+axesValues = (
+142
+);
+customParameters = (
+{
+name = "Remove Glyphs";
+value = (
+dog,
+hand,
+magic,
+rose,
+europeanCastle,
+dragon,
+dragonFace,
+daggerKnife,
+wiltedFlower,
+crossedSwords
+);
+},
+{
+name = "Webfont Formats";
+value = (
+woff2
+);
+},
+{
+name = "Webfont Only";
+value = 1;
+},
+{
+name = "Remove post names for webfonts";
+value = 1;
+},
+{
+name = Autohint;
+value = 1;
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+200
+);
+customParameters = (
+{
+name = "Remove Glyphs";
+value = (
+dog,
+hand,
+magic,
+rose,
+europeanCastle,
+dragon,
+dragonFace,
+daggerKnife,
+wiltedFlower,
+crossedSwords
+);
+},
+{
+name = "Webfont Formats";
+value = (
+woff2
+);
+},
+{
+name = "Webfont Only";
+value = 1;
+},
+{
+name = "Remove post names for webfonts";
+value = 1;
+},
+{
+name = Autohint;
+value = 1;
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+linkStyle = Bold;
+name = Dark;
+weightClass = 900;
+}
+);
+}
