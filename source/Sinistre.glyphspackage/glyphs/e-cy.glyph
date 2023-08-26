@@ -62,7 +62,7 @@ width = 542;
 layerId = m004;
 shapes = (
 {
-pos = (557,0);
+pos = (546,0);
 ref = "ereversed-cy";
 scale = (-1,1);
 }
@@ -83,7 +83,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 557;
+width = 546;
 }
 );
 unicode = 1108;
