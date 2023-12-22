@@ -134,7 +134,7 @@ pos = (334,500);
 }
 );
 backgroundImage = {
-imagePath = "/var/folders/vx/72dntp0n22d61vk41j5vpzp80000gn/T/TemporaryItems/NSIRD_screencaptureui_6sG6vn/Capture d’écran 2023-06-21 à 11.08.34.png";
+imagePath = "../../../var/folders/vx/72dntp0n22d61vk41j5vpzp80000gn/T/TemporaryItems/NSIRD_screencaptureui_6sG6vn/Capture d’écran 2023-06-21 à 11.08.34.png";
 locked = 1;
 pos = (-337,-569);
 scale = (8.6571,9.1381);
@@ -258,7 +258,7 @@ pos = (282,500);
 }
 );
 backgroundImage = {
-imagePath = "/var/folders/vx/72dntp0n22d61vk41j5vpzp80000gn/T/TemporaryItems/NSIRD_screencaptureui_6sG6vn/Capture d’écran 2023-06-21 à 11.08.34.png";
+imagePath = "../../../var/folders/vx/72dntp0n22d61vk41j5vpzp80000gn/T/TemporaryItems/NSIRD_screencaptureui_6sG6vn/Capture d’écran 2023-06-21 à 11.08.34.png";
 locked = 1;
 pos = (-362,-569);
 scale = (8.6571,9.1381);

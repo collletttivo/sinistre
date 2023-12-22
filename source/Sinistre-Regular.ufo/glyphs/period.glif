@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance width="232"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="96" y="-11" type="curve"/>
+      <point x="110" y="19"/>
+      <point x="136" y="38"/>
+      <point x="152" y="47" type="curve"/>
+      <point x="129" y="61"/>
+      <point x="107" y="82"/>
+      <point x="96" y="105" type="curve"/>
+      <point x="86" y="84"/>
+      <point x="66" y="59"/>
+      <point x="40" y="47" type="curve"/>
+      <point x="63" y="39"/>
+      <point x="88" y="12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

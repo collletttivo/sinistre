@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="519"/>
+  <unicode hex="007A"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="255" y="250" name="center"/>
+  <anchor x="264" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="32" y="-10" type="line"/>
+      <point x="94" y="-2"/>
+      <point x="122" y="0"/>
+      <point x="161" y="0" type="curve" smooth="yes"/>
+      <point x="261" y="0"/>
+      <point x="341" y="-6"/>
+      <point x="438" y="2" type="curve"/>
+      <point x="494" y="185" type="line"/>
+      <point x="472" y="193" type="line"/>
+      <point x="458" y="158"/>
+      <point x="433" y="150"/>
+      <point x="397" y="149" type="curve" smooth="yes"/>
+      <point x="355" y="148"/>
+      <point x="268" y="149"/>
+      <point x="206" y="142" type="curve"/>
+      <point x="201" y="148" type="line"/>
+      <point x="259" y="239"/>
+      <point x="372" y="366"/>
+      <point x="494" y="490" type="curve"/>
+      <point x="481" y="507" type="line"/>
+      <point x="463" y="501"/>
+      <point x="443" y="500"/>
+      <point x="391" y="500" type="curve" smooth="yes"/>
+      <point x="214" y="500" type="line" smooth="yes"/>
+      <point x="138" y="500"/>
+      <point x="123" y="501"/>
+      <point x="100" y="510" type="curve"/>
+      <point x="25" y="316" type="line"/>
+      <point x="47" y="307" type="line"/>
+      <point x="76" y="360"/>
+      <point x="110" y="366"/>
+      <point x="185" y="366" type="curve" smooth="yes"/>
+      <point x="310" y="366" type="line"/>
+      <point x="20" y="6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

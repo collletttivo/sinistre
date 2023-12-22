@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="490.53125"/>
+  <unicode hex="2020"/>
+  <note>
+dagger
+</note>
+  <outline>
+    <contour>
+      <point x="182" y="722" type="curve"/>
+      <point x="182" y="222" type="line"/>
+      <point x="72" y="222" type="line"/>
+      <point x="42" y="112" type="line"/>
+      <point x="75" y="136"/>
+      <point x="122" y="139"/>
+      <point x="182" y="139" type="curve"/>
+      <point x="182" y="0" type="line"/>
+      <point x="220" y="4"/>
+      <point x="258" y="4"/>
+      <point x="297" y="0" type="curve"/>
+      <point x="297" y="141" type="line"/>
+      <point x="357" y="141"/>
+      <point x="404" y="138"/>
+      <point x="437" y="114" type="curve"/>
+      <point x="407" y="222" type="line"/>
+      <point x="297" y="222" type="line"/>
+      <point x="297" y="722" type="line"/>
+      <point x="260" y="719"/>
+      <point x="221" y="717"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

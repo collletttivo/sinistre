@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft" format="2">
+  <advance width="501"/>
+  <unicode hex="005B"/>
+  <note>
+bracketleft
+</note>
+  <outline>
+    <contour>
+      <point x="60" y="-96" type="curve"/>
+      <point x="433" y="-96" type="line"/>
+      <point x="434" y="36"/>
+      <point x="440" y="92"/>
+      <point x="461" y="156" type="curve"/>
+      <point x="437" y="163" type="line"/>
+      <point x="394" y="53"/>
+      <point x="343" y="-48"/>
+      <point x="271" y="-48" type="curve" smooth="yes"/>
+      <point x="234" y="-48"/>
+      <point x="230" y="-35"/>
+      <point x="230" y="15" type="curve" smooth="yes"/>
+      <point x="230" y="772" type="line"/>
+      <point x="258" y="772" type="line" smooth="yes"/>
+      <point x="325" y="772"/>
+      <point x="358" y="722"/>
+      <point x="419" y="565" type="curve"/>
+      <point x="445" y="576" type="line"/>
+      <point x="424" y="640"/>
+      <point x="421" y="788"/>
+      <point x="420" y="820" type="curve"/>
+      <point x="60" y="820" type="line"/>
+      <point x="76" y="793"/>
+      <point x="80" y="779"/>
+      <point x="80" y="722" type="curve" smooth="yes"/>
+      <point x="80" y="-7" type="line" smooth="yes"/>
+      <point x="80" y="-52"/>
+      <point x="75" y="-69"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

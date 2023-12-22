@@ -1,0 +1,220 @@
+# automatic
+@Uppercase = [ A AE B C D E F G H I J K L M N O OE P Thorn Q R S Germandbls T U V W X Y Z A_V.dlig N_N.liga R_P.liga R_Y.liga Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Cacute Ccaron Ccedilla Cdotaccent Eth Dcaron Dcroat Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Gbreve Gcommaaccent Gdotaccent Hbar Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Kcommaaccent Lacute Lcaron Lcommaaccent Lslash Nacute Ncaron Ncommaaccent Ntilde Eng Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Racute Rcaron Rcommaaccent S.ss01 Sacute Scaron Scedilla Scommaaccent Tbar Tcaron Tcedilla Tcommaaccent Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Zacute Zcaron Zdotaccent ];
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn MAH;
+languagesystem latn NLD;
+
+languagesystem cyrl dflt;
+languagesystem cyrl SRB;
+
+feature aalt {
+# automatic
+feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature ss01;
+feature ss02;
+feature ss03;
+} aalt;
+
+feature locl {
+# automatic
+script latn;
+language AZE;
+lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
+
+script latn;
+language MAH;
+lookup locl_latn_2 {
+	sub Lcommaaccent by Lcommaaccent.loclMAH;
+	sub Ncommaaccent by Ncommaaccent.loclMAH;
+	sub lcommaaccent by lcommaaccent.loclMAH;
+	sub ncommaaccent by ncommaaccent.loclMAH;
+} locl_latn_2;
+
+script latn;
+language NLD;
+lookup locl_latn_3 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_3;
+
+script cyrl;
+language SRB;
+lookup locl_cyrl_0 {
+	sub be-cy by be-cy.loclSRB;
+} locl_cyrl_0;
+} locl;
+
+feature sups {
+# automatic
+sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature dlig {
+# automatic
+lookupflag IgnoreMarks;
+sub A V by A_V.dlig;
+} dlig;
+
+feature liga {
+# automatic
+lookupflag IgnoreMarks;
+sub f f i by f_f_i.liga;
+sub E N by E_N.liga;
+sub E T by E_T.liga;
+sub K h by K_h.liga;
+sub K y by K_y.liga;
+sub N N by N_N.liga;
+sub R P by R_P.liga;
+sub R Y by R_Y.liga;
+sub T T by T_T.liga;
+sub f b by f_b.liga;
+sub f f by f_f.liga;
+sub f h by f_h.liga;
+sub f i by f_i.liga;
+sub f k by f_k.liga;
+sub f l by f_l.liga;
+sub f t by f_t.liga;
+sub r a by r_a.liga;
+} liga;
+
+feature ss01 {
+# automatic
+featureNames {
+	name "name : Celtic";
+};
+sub ampersand by ampersand.ss01;
+sub periodcentered by periodcentered.ss01;
+sub A by A.ss01;
+sub C by C.ss01;
+sub D by D.ss01;
+sub E by E.ss01;
+sub F by F.ss01;
+sub G by G.ss01;
+sub H by H.ss01;
+sub K by K.ss01;
+sub L by L.ss01;
+sub M by M.ss01;
+sub N by N.ss01;
+sub OE by OE.ss01;
+sub P by P.ss01;
+sub Q by Q.ss01;
+sub R by R.ss01;
+sub S by S.ss01;
+sub T by T.ss01;
+sub U by U.ss01;
+sub W by W.ss01;
+sub Y by Y.ss01;
+sub a by a.ss01;
+sub e by e.ss01;
+sub f by f.ss01;
+sub g by g.ss01;
+sub i by i.ss01;
+sub j by j.ss01;
+sub k by k.ss01;
+sub m by m.ss01;
+sub q by q.ss01;
+sub r by r.ss01;
+sub t by t.ss01;
+sub u by u.ss01;
+sub w by w.ss01;
+sub y by y.ss01;
+sub f_i.liga by f_i.liga.ss01;
+sub three by three.ss01;
+sub sterling by sterling.ss01;
+sub multiply by multiply.ss01;
+sub plus by plus.ss01;
+sub period by period.ss01;
+sub comma by comma.ss01;
+sub colon by colon.ss01;
+sub question by question.ss01;
+sub questiondown by questiondown.ss01;
+sub quoteleft by quoteleft.ss01;
+sub quoteright by quoteright.ss01;
+sub De-cy by De-cy.ss01;
+sub Zhe-cy by Zhe-cy.ss01;
+sub El-cy by El-cy.ss01;
+sub U-cy by U-cy.ss01;
+sub Tse-cy by Tse-cy.ss01;
+sub Shcha-cy by Shcha-cy.ss01;
+sub Softsign-cy by Softsign-cy.ss01;
+sub Yeru-cy by Yeru-cy.ss01;
+sub tse-cy by tse-cy.ss01;
+sub shcha-cy by shcha-cy.ss01;
+sub quotesingle by quotesingle.ss01;
+} ss01;
+
+feature ss02 {
+# automatic
+featureNames {
+	name "name : Pagan";
+};
+sub A by A.ss02;
+sub G by G.ss02;
+sub H by H.ss02;
+sub f by f.ss02;
+sub g by g.ss02;
+sub y by y.ss02;
+sub El-cy by El-cy.ss02;
+sub Hardsign-cy by Hardsign-cy.ss02;
+} ss02;
+
+feature ss03 {
+# automatic
+featureNames {
+	name "name : Gollum";
+};
+sub g by g.ss03;
+} ss03;
+

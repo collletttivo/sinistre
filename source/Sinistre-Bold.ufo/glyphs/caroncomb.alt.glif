@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.alt" format="2">
+  <advance width="385"/>
+  <anchor x="107" y="500" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="129" y="566" type="curve"/>
+      <point x="135" y="555" type="line"/>
+      <point x="200" y="589"/>
+      <point x="243" y="660"/>
+      <point x="243" y="723" type="curve" smooth="yes"/>
+      <point x="243" y="768"/>
+      <point x="222" y="808"/>
+      <point x="172" y="830" type="curve"/>
+      <point x="168" y="801"/>
+      <point x="152" y="766"/>
+      <point x="129" y="745" type="curve"/>
+      <point x="166" y="729"/>
+      <point x="183" y="697"/>
+      <point x="183" y="663" type="curve" smooth="yes"/>
+      <point x="183" y="630"/>
+      <point x="165" y="594"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

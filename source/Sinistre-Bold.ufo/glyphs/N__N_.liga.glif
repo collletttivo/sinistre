@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N_N.liga" format="2">
+  <advance width="1373"/>
+  <anchor x="335" y="0" name="bottom_1"/>
+  <anchor x="1014" y="0" name="bottom_2"/>
+  <anchor x="674" y="0" name="caret_1"/>
+  <anchor x="335" y="722" name="top_1"/>
+  <anchor x="1014" y="722" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="10" y="722" type="line"/>
+      <point x="10" y="707" type="line"/>
+      <point x="67" y="706"/>
+      <point x="87" y="693"/>
+      <point x="138" y="632" type="curve"/>
+      <point x="132" y="118" type="line" smooth="yes"/>
+      <point x="131" y="62"/>
+      <point x="126" y="34"/>
+      <point x="114" y="0" type="curve"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="13" type="line"/>
+      <point x="233" y="21"/>
+      <point x="213" y="51"/>
+      <point x="203" y="107" type="curve"/>
+      <point x="189" y="232"/>
+      <point x="188" y="388"/>
+      <point x="193" y="566" type="curve"/>
+      <point x="662" y="0" type="line"/>
+      <point x="715" y="0"/>
+      <point x="767" y="0"/>
+      <point x="820" y="0" type="curve"/>
+      <point x="824" y="13" type="line"/>
+      <point x="790" y="34"/>
+      <point x="765" y="73"/>
+      <point x="760" y="123" type="curve" smooth="yes"/>
+      <point x="749" y="224"/>
+      <point x="752" y="393"/>
+      <point x="752" y="566" type="curve"/>
+      <point x="1225" y="0" type="line"/>
+      <point x="1310" y="0" type="line"/>
+      <point x="1310" y="588" type="line" smooth="yes"/>
+      <point x="1310" y="651"/>
+      <point x="1313" y="684"/>
+      <point x="1323" y="722" type="curve"/>
+      <point x="1136" y="722" type="line"/>
+      <point x="1136" y="708" type="line"/>
+      <point x="1193" y="709"/>
+      <point x="1225" y="695"/>
+      <point x="1240" y="614" type="curve" smooth="yes"/>
+      <point x="1256" y="508"/>
+      <point x="1256" y="375"/>
+      <point x="1256" y="189" type="curve"/>
+      <point x="813" y="722" type="line"/>
+      <point x="564" y="722" type="line"/>
+      <point x="564" y="709" type="line"/>
+      <point x="621" y="709"/>
+      <point x="675" y="663"/>
+      <point x="687" y="634" type="curve"/>
+      <point x="701" y="520"/>
+      <point x="698" y="414"/>
+      <point x="698" y="187" type="curve"/>
+      <point x="253" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>N</string>
+    </dict>
+  </lib>
+</glyph>

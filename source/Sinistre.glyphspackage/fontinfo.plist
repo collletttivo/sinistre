@@ -1,5 +1,5 @@
 {
-.appVersion = "3214";
+.appVersion = "3217";
 .formatVersion = 3;
 axes = (
 {
@@ -15,6 +15,15 @@ name = Uppercase;
 }
 );
 customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = fsType;
+value = (
+);
+},
 {
 name = glyphOrder;
 value = (
@@ -267,17 +276,8 @@ _corner.rightSerif.cap
 );
 },
 {
-name = fsType;
-value = (
-);
-},
-{
 name = vendorID;
 value = CLT;
-},
-{
-name = "Use Typo Metrics";
-value = 1;
 },
 {
 name = unicodeRanges;
@@ -289,16 +289,16 @@ value = (
 );
 },
 {
+name = "Disable Subroutines";
+value = 1;
+},
+{
 name = "Write lastChange";
 value = 0;
 },
 {
 name = "Write DisplayStrings";
 value = 0;
-},
-{
-name = "Disable Subroutines";
-value = 1;
 }
 );
 date = "2023-04-19 14:20:41 +0000";
@@ -340,53 +340,50 @@ tag = aalt;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {
-	script latn;
-	language AZE;
-	sub i by idotaccent;
-	language CRT;
-	sub i by idotaccent;
-	language KAZ;
-	sub i by idotaccent;
-	language TAT;
-	sub i by idotaccent;
-	language TRK;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
 	sub i by idotaccent;
 } locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
 
+script latn;
+language ROM;
 lookup locl_latn_1 {
-	script latn;
-	language ROM;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
-	language MOL;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
 } locl_latn_1;
+language MOL;
+lookup locl_latn_1;
 
+script latn;
+language MAH;
 lookup locl_latn_2 {
-	script latn;
-	language MAH;
 	sub Lcommaaccent by Lcommaaccent.loclMAH;
 	sub Ncommaaccent by Ncommaaccent.loclMAH;
 	sub lcommaaccent by lcommaaccent.loclMAH;
 	sub ncommaaccent by ncommaaccent.loclMAH;
 } locl_latn_2;
 
+script latn;
+language NLD;
 lookup locl_latn_3 {
-	script latn;
-	language NLD;
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
 } locl_latn_3;
 
+script cyrl;
+language SRB;
 lookup locl_cyrl_0 {
-	script cyrl;
-	language SRB;
 	sub be-cy by be-cy.loclSRB;
 } locl_cyrl_0;
 ";
@@ -556,7 +553,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 1069;
 },
 {
 name = typoDescender;
@@ -564,11 +561,11 @@ value = -350;
 },
 {
 name = typoLineGap;
-value = 285;
+value = 80;
 },
 {
 name = winAscent;
-value = 950;
+value = 1069;
 },
 {
 name = winDescent;
@@ -576,7 +573,7 @@ value = 485;
 },
 {
 name = hheaAscender;
-value = 800;
+value = 1069;
 },
 {
 name = hheaDescender;
@@ -584,7 +581,7 @@ value = -350;
 },
 {
 name = hheaLineGap;
-value = 285;
+value = 80;
 }
 );
 iconName = Light;
@@ -631,7 +628,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 1069;
 },
 {
 name = typoDescender;
@@ -639,11 +636,11 @@ value = -350;
 },
 {
 name = typoLineGap;
-value = 285;
+value = 80;
 },
 {
 name = winAscent;
-value = 950;
+value = 1069;
 },
 {
 name = winDescent;
@@ -651,7 +648,7 @@ value = 485;
 },
 {
 name = hheaAscender;
-value = 800;
+value = 1069;
 },
 {
 name = hheaDescender;
@@ -659,7 +656,7 @@ value = -350;
 },
 {
 name = hheaLineGap;
-value = 285;
+value = 80;
 }
 );
 iconName = SemiBold;
@@ -704,7 +701,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 1069;
 },
 {
 name = typoDescender;
@@ -712,11 +709,11 @@ value = -350;
 },
 {
 name = typoLineGap;
-value = 285;
+value = 80;
 },
 {
 name = winAscent;
-value = 950;
+value = 1069;
 },
 {
 name = winDescent;
@@ -724,7 +721,7 @@ value = 485;
 },
 {
 name = hheaAscender;
-value = 800;
+value = 1069;
 },
 {
 name = hheaDescender;
@@ -732,7 +729,7 @@ value = -350;
 },
 {
 name = hheaLineGap;
-value = 285;
+value = 80;
 }
 );
 iconName = Bold;
@@ -2725,7 +2722,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "OFL ©Jules Durand + Collletttivo.it —> Copy-Left Software";
+value = "© 2023, Jules Durand & Collletttivo";
 }
 );
 },
@@ -2740,20 +2737,20 @@ value = "Jules Durand";
 },
 {
 key = designerURL;
-value = "https://julesdurand.com/";
+value = "https://julesdurand.com";
 },
 {
 key = manufacturers;
 values = (
 {
 language = dflt;
-value = "Jules Durand";
+value = Collletttivo;
 }
 );
 },
 {
 key = manufacturerURL;
-value = "https://julesdurand.com/";
+value = "https://www.collletttivo.it";
 },
 {
 key = vendorID;
@@ -2764,7 +2761,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "SIL OpenFont License";
+value = "SIL Open Font License";
 }
 );
 },

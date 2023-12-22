@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T_T.liga" format="2">
+  <advance width="1062"/>
+  <anchor x="312" y="0" name="bottom"/>
+  <anchor x="312" y="361" name="center"/>
+  <anchor x="312" y="722" name="top"/>
+  <outline>
+    <contour>
+      <point x="262" y="-1" type="curve"/>
+      <point x="433" y="0" type="line"/>
+      <point x="422" y="24"/>
+      <point x="418" y="44"/>
+      <point x="418" y="84" type="curve" smooth="yes"/>
+      <point x="418" y="680" type="line"/>
+      <point x="644" y="680" type="line"/>
+      <point x="644" y="83" type="line" smooth="yes"/>
+      <point x="644" y="43"/>
+      <point x="640" y="23"/>
+      <point x="629" y="-1" type="curve"/>
+      <point x="800" y="0" type="line"/>
+      <point x="789" y="24"/>
+      <point x="785" y="44"/>
+      <point x="785" y="84" type="curve" smooth="yes"/>
+      <point x="785" y="680" type="line"/>
+      <point x="908" y="674"/>
+      <point x="985" y="607"/>
+      <point x="1015" y="473" type="curve"/>
+      <point x="1030" y="476" type="line"/>
+      <point x="998" y="722" type="line"/>
+      <point x="64" y="722" type="line"/>
+      <point x="32" y="476" type="line"/>
+      <point x="47" y="473" type="line"/>
+      <point x="75" y="610"/>
+      <point x="151" y="674"/>
+      <point x="277" y="680" type="curve"/>
+      <point x="277" y="83" type="line" smooth="yes"/>
+      <point x="277" y="43"/>
+      <point x="273" y="23"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="364"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="182" y="491" type="curve" smooth="yes"/>
+      <point x="226" y="491"/>
+      <point x="270" y="524"/>
+      <point x="270" y="585" type="curve" smooth="yes"/>
+      <point x="270" y="633"/>
+      <point x="238" y="682"/>
+      <point x="182" y="682" type="curve" smooth="yes"/>
+      <point x="125" y="682"/>
+      <point x="94" y="635"/>
+      <point x="94" y="587" type="curve" smooth="yes"/>
+      <point x="94" y="539"/>
+      <point x="125" y="491"/>
+    </contour>
+    <contour>
+      <point x="183" y="557" type="curve" smooth="yes"/>
+      <point x="158" y="557"/>
+      <point x="141" y="570"/>
+      <point x="141" y="593" type="curve" smooth="yes"/>
+      <point x="141" y="612"/>
+      <point x="157" y="627"/>
+      <point x="182" y="627" type="curve" smooth="yes"/>
+      <point x="208" y="627"/>
+      <point x="224" y="613"/>
+      <point x="224" y="592" type="curve" smooth="yes"/>
+      <point x="224" y="570"/>
+      <point x="209" y="557"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

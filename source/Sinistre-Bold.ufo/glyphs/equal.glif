@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance width="705.3125"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="68" y="323" type="line"/>
+      <point x="620" y="352" type="line"/>
+      <point x="620" y="500" type="line"/>
+      <point x="68" y="375" type="line"/>
+    </contour>
+    <contour>
+      <point x="68" y="113" type="line"/>
+      <point x="620" y="126" type="line"/>
+      <point x="620" y="273" type="line"/>
+      <point x="68" y="166" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

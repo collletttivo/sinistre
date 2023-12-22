@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="369"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="43" y="-3" type="curve"/>
+      <point x="45" y="-9" type="line"/>
+      <point x="129" y="-3"/>
+      <point x="151" y="8"/>
+      <point x="185" y="49" type="curve" smooth="yes"/>
+      <point x="238" y="114"/>
+      <point x="307" y="217"/>
+      <point x="345" y="244" type="curve"/>
+      <point x="345" y="249" type="line"/>
+      <point x="332" y="258"/>
+      <point x="316" y="275"/>
+      <point x="302" y="293" type="curve" smooth="yes"/>
+      <point x="202" y="414" type="line" smooth="yes"/>
+      <point x="173" y="450"/>
+      <point x="161" y="482"/>
+      <point x="202" y="497" type="curve"/>
+      <point x="202" y="500" type="line"/>
+      <point x="56" y="500" type="line"/>
+      <point x="56" y="497" type="line"/>
+      <point x="105" y="494"/>
+      <point x="123" y="476"/>
+      <point x="163" y="425" type="curve" smooth="yes"/>
+      <point x="293" y="263" type="line"/>
+      <point x="247" y="232"/>
+      <point x="184" y="131"/>
+      <point x="130" y="64" type="curve" smooth="yes"/>
+      <point x="107" y="36"/>
+      <point x="83" y="6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>guillemetright</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>guillemetright</string>
+    </dict>
+  </lib>
+</glyph>

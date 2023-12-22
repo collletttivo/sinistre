@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_corner.topSerifAsc" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="184" y="8" type="move"/>
+      <point x="184" y="97"/>
+      <point x="186" y="115"/>
+      <point x="202" y="164" type="curve"/>
+      <point x="190" y="172" type="line"/>
+      <point x="-26" y="12" type="line"/>
+      <point x="-26" y="0" type="line"/>
+      <point x="-8" y="-18"/>
+      <point x="0" y="-45"/>
+      <point x="0" y="-88" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

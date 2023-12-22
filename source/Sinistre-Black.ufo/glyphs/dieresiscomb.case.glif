@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <advance width="396"/>
+  <anchor x="187" y="500" name="_top"/>
+  <anchor x="168" y="584" name="top"/>
+  <outline>
+    <contour>
+      <point x="81" y="565" type="curve" smooth="yes"/>
+      <point x="123" y="565"/>
+      <point x="157" y="599"/>
+      <point x="157" y="642" type="curve" smooth="yes"/>
+      <point x="157" y="684"/>
+      <point x="123" y="718"/>
+      <point x="81" y="718" type="curve" smooth="yes"/>
+      <point x="38" y="718"/>
+      <point x="4" y="684"/>
+      <point x="4" y="642" type="curve" smooth="yes"/>
+      <point x="4" y="599"/>
+      <point x="38" y="565"/>
+    </contour>
+    <contour>
+      <point x="290" y="565" type="curve" smooth="yes"/>
+      <point x="332" y="565"/>
+      <point x="366" y="599"/>
+      <point x="366" y="642" type="curve" smooth="yes"/>
+      <point x="366" y="684"/>
+      <point x="332" y="718"/>
+      <point x="290" y="718" type="curve" smooth="yes"/>
+      <point x="247" y="718"/>
+      <point x="213" y="684"/>
+      <point x="213" y="642" type="curve" smooth="yes"/>
+      <point x="213" y="599"/>
+      <point x="247" y="565"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

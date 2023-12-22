@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.ss01" format="2">
+  <advance width="713"/>
+  <anchor x="371" y="0" name="bottom"/>
+  <anchor x="371" y="722" name="top"/>
+  <outline>
+    <contour>
+      <point x="748" y="-140" type="curve"/>
+      <point x="753" y="-125" type="line"/>
+      <point x="659" y="-84"/>
+      <point x="653" y="97"/>
+      <point x="598" y="233" type="curve" smooth="yes"/>
+      <point x="560" y="329"/>
+      <point x="499" y="408"/>
+      <point x="341" y="397" type="curve"/>
+      <point x="533" y="637" type="line" smooth="yes"/>
+      <point x="573" y="686"/>
+      <point x="594" y="703"/>
+      <point x="653" y="707" type="curve"/>
+      <point x="653" y="722" type="line"/>
+      <point x="466" y="722" type="line"/>
+      <point x="453" y="687"/>
+      <point x="368" y="585"/>
+      <point x="235" y="420" type="curve"/>
+      <point x="235" y="774" type="line" smooth="yes"/>
+      <point x="235" y="830"/>
+      <point x="238" y="861"/>
+      <point x="245" y="894" type="curve"/>
+      <point x="24" y="894" type="line"/>
+      <point x="24" y="878" type="line"/>
+      <point x="42" y="878" type="line" smooth="yes"/>
+      <point x="77" y="878"/>
+      <point x="94" y="858"/>
+      <point x="94" y="814" type="curve" smooth="yes"/>
+      <point x="94" y="84" type="line" smooth="yes"/>
+      <point x="94" y="44"/>
+      <point x="90" y="24"/>
+      <point x="79" y="0" type="curve"/>
+      <point x="250" y="0" type="line"/>
+      <point x="239" y="24"/>
+      <point x="235" y="44"/>
+      <point x="235" y="84" type="curve" smooth="yes"/>
+      <point x="235" y="355" type="line"/>
+      <point x="251" y="357"/>
+      <point x="269" y="357"/>
+      <point x="281" y="357" type="curve" smooth="yes"/>
+      <point x="391" y="354"/>
+      <point x="429" y="269"/>
+      <point x="478" y="127" type="curve" smooth="yes"/>
+      <point x="519" y="8"/>
+      <point x="558" y="-95"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w.ss01" format="2">
+  <advance width="803"/>
+  <anchor x="408" y="0" name="bottom"/>
+  <anchor x="408" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="429" y="385" type="curve" smooth="yes"/>
+      <point x="424" y="371" type="line"/>
+      <point x="452" y="307" type="line"/>
+      <point x="495" y="419" type="line" smooth="yes"/>
+      <point x="509" y="457"/>
+      <point x="520" y="476"/>
+      <point x="537" y="500" type="curve"/>
+      <point x="401" y="500" type="line"/>
+      <point x="401" y="486" type="line"/>
+      <point x="443" y="485"/>
+      <point x="454" y="453"/>
+    </contour>
+    <contour>
+      <point x="540" y="-19" type="line"/>
+      <point x="558" y="10"/>
+      <point x="585" y="28"/>
+      <point x="617" y="33" type="curve"/>
+      <point x="793" y="500" type="line"/>
+      <point x="669" y="500" type="line"/>
+      <point x="669" y="486" type="line"/>
+      <point x="711" y="485"/>
+      <point x="722" y="453"/>
+      <point x="697" y="385" type="curve" smooth="yes"/>
+      <point x="598" y="117" type="line"/>
+      <point x="455" y="500" type="line"/>
+      <point x="292" y="500" type="line"/>
+      <point x="292" y="485" type="line"/>
+      <point x="331" y="483"/>
+      <point x="348" y="450"/>
+      <point x="366" y="402" type="curve" smooth="yes"/>
+      <point x="520" y="-15" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="33" type="curve"/>
+      <point x="438" y="307" type="line"/>
+      <point x="410" y="371" type="line"/>
+      <point x="316" y="117" type="line"/>
+      <point x="212" y="396" type="line" smooth="yes"/>
+      <point x="194" y="444"/>
+      <point x="191" y="469"/>
+      <point x="201" y="500" type="curve"/>
+      <point x="10" y="500" type="line"/>
+      <point x="10" y="485" type="line"/>
+      <point x="49" y="483"/>
+      <point x="66" y="450"/>
+      <point x="84" y="402" type="curve" smooth="yes"/>
+      <point x="238" y="-15" type="line"/>
+      <point x="258" y="-19" type="line"/>
+      <point x="276" y="10"/>
+      <point x="303" y="28"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.hugojourdan.ColorFlow</key>
+      <dict>
+        <key>0</key>
+        <integer>0</integer>
+        <key>1</key>
+        <integer>0</integer>
+        <key>10</key>
+        <integer>0</integer>
+        <key>11</key>
+        <integer>0</integer>
+        <key>2</key>
+        <integer>0</integer>
+        <key>3</key>
+        <integer>0</integer>
+        <key>4</key>
+        <integer>0</integer>
+        <key>5</key>
+        <integer>0</integer>
+        <key>6</key>
+        <integer>0</integer>
+        <key>7</key>
+        <integer>0</integer>
+        <key>8</key>
+        <integer>0</integer>
+        <key>9</key>
+        <integer>0</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>v</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
