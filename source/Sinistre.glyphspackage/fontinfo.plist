@@ -293,12 +293,13 @@ name = "Disable Subroutines";
 value = 1;
 },
 {
-name = "Write lastChange";
-value = 0;
-},
-{
-name = "Write DisplayStrings";
-value = 0;
+name = "Axis Mappings";
+value = {
+wght = {
+400 = 72;
+900 = 200;
+};
+};
 }
 );
 date = "2023-04-19 14:20:41 +0000";

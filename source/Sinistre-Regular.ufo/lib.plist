@@ -19,8 +19,6 @@
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
-    <key>com.schriftgestaltung.disablesLastChange</key>
-    <integer>1</integer>
     <key>com.schriftgestaltung.font.customParameters</key>
     <array>
       <dict>
@@ -31,15 +29,17 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Write lastChange</string>
+        <string>Axis Mappings</string>
         <key>value</key>
-        <integer>0</integer>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string>Write DisplayStrings</string>
-        <key>value</key>
-        <integer>0</integer>
+        <dict>
+          <key>wght</key>
+          <dict>
+            <key>400</key>
+            <real>72</real>
+            <key>900</key>
+            <real>200</real>
+          </dict>
+        </dict>
       </dict>
     </array>
     <key>com.schriftgestaltung.font.userData</key>
