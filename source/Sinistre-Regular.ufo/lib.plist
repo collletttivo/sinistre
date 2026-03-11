@@ -15,7 +15,7 @@
     </array>
     <key>com.schriftgestaltung.axesValues</key>
     <array>
-      <integer>72</integer>
+      <integer>400</integer>
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
@@ -26,20 +26,6 @@
         <string>Disable Subroutines</string>
         <key>value</key>
         <integer>1</integer>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string>Axis Mappings</string>
-        <key>value</key>
-        <dict>
-          <key>wght</key>
-          <dict>
-            <key>400</key>
-            <real>72</real>
-            <key>900</key>
-            <real>200</real>
-          </dict>
-        </dict>
       </dict>
     </array>
     <key>com.schriftgestaltung.font.userData</key>

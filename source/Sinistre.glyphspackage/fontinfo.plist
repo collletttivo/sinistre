@@ -291,15 +291,6 @@ value = (
 {
 name = "Disable Subroutines";
 value = 1;
-},
-{
-name = "Axis Mappings";
-value = {
-wght = {
-400 = 72;
-900 = 200;
-};
-};
 }
 );
 date = "2023-04-19 14:20:41 +0000";
@@ -549,7 +540,7 @@ tag = ss03;
 fontMaster = (
 {
 axesValues = (
-72
+400
 );
 customParameters = (
 {
@@ -624,7 +615,7 @@ GSOffsetVertical = 5;
 },
 {
 axesValues = (
-142
+673
 );
 customParameters = (
 {
@@ -697,7 +688,7 @@ GSOffsetVertical = 5;
 },
 {
 axesValues = (
-200
+900
 );
 customParameters = (
 {
@@ -773,20 +764,14 @@ GSOffsetVertical = 4;
 instances = (
 {
 axesValues = (
-72
+400
 );
-instanceInterpolations = {
-"452AD06C-4D92-427C-8B35-838986F56274" = 1;
-};
 name = Regular;
 },
 {
 axesValues = (
-142
+673
 );
-instanceInterpolations = {
-"D54810B1-F9A5-4F35-A1FF-AED0599B2373" = 1;
-};
 isBold = 1;
 linkStyle = Regular;
 name = Bold;
@@ -794,12 +779,8 @@ weightClass = 700;
 },
 {
 axesValues = (
-200
+900
 );
-instanceInterpolations = {
-m004 = 1;
-};
-linkStyle = Bold;
 name = Dark;
 weightClass = 900;
 }
@@ -2772,9 +2753,11 @@ value = CLT;
 }
 );
 settings = {
+fontType = variable;
 keepAlternatesTogether = 1;
 keyboardIncrementBig = 80;
 keyboardIncrementHuge = 800;
+previewRemoveOverlap = 0;
 };
 stems = (
 {
