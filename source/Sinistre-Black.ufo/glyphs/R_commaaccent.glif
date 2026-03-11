@@ -6,7 +6,7 @@
   <anchor x="322" y="722" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="commaaccentcomb" xOffset="288" yOffset="-68" identifier="BDB9D492"/>
+    <component base="commaaccentcomb" xOffset="288" yOffset="-68" identifier="D1EE4921"/>
   </outline>
   <lib>
     <dict>
@@ -41,7 +41,7 @@
       <string>R</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>BDB9D492</key>
+        <key>D1EE4921</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

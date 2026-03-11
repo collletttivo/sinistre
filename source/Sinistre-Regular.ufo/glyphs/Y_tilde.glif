@@ -4,7 +4,7 @@
   <unicode hex="1EF8"/>
   <outline>
     <component base="Y"/>
-    <component base="tildecomb.case" xOffset="108" yOffset="134" identifier="B1DAF1E2"/>
+    <component base="tildecomb.case" xOffset="108" yOffset="134" identifier="5D0BB2FB"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>B1DAF1E2</key>
+        <key>5D0BB2FB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

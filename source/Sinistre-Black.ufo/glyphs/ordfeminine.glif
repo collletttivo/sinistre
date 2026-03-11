@@ -3,7 +3,7 @@
   <advance width="308"/>
   <unicode hex="00AA"/>
   <outline>
-    <component base="a" xScale="0.4512" yScale="0.4512" xOffset="14" yOffset="505" identifier="23B37510"/>
+    <component base="a" xScale="0.4512" yScale="0.4512" xOffset="14" yOffset="505" identifier="D04B889E"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
       <string>a</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>23B37510</key>
+        <key>D04B889E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -5,7 +5,7 @@
   <anchor x="197" y="500" name="_top"/>
   <anchor x="197" y="665" name="top"/>
   <outline>
-    <component base="breve" xOffset="10" identifier="EC0323EE"/>
+    <component base="breve" xOffset="10" identifier="273475CA"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
       <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>EC0323EE</key>
+        <key>273475CA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

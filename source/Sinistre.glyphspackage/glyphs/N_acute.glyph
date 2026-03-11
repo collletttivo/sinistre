@@ -40,6 +40,9 @@ ref = N;
 },
 {
 alignment = -1;
+attr = {
+identifier = 1CF83F65;
+};
 pos = (207,252);
 ref = acutecomb.case;
 scale = (1.0914,1);
@@ -68,10 +71,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 51E3D868;
+};
 ref = N;
 },
 {
 alignment = -1;
+attr = {
+identifier = 5CC21C28;
+};
 pos = (241,234);
 ref = acutecomb.case;
 scale = (1.05,1);

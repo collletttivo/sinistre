@@ -28,7 +28,7 @@
       <point x="397" y="134"/>
       <point x="352" y="3"/>
     </contour>
-    <component base="l" identifier="E5C6C182"/>
+    <component base="l" identifier="E0B4CD85"/>
   </outline>
   <lib>
     <dict>
@@ -67,7 +67,7 @@
       <string>0.04,0.57,0.04,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>E5C6C182</key>
+        <key>E0B4CD85</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

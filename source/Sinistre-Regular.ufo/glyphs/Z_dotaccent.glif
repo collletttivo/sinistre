@@ -4,7 +4,7 @@
   <unicode hex="017B"/>
   <outline>
     <component base="Z"/>
-    <component base="dotaccentcomb.case" xScale="1.3766" yScale="1.0885" xOffset="171" yOffset="148" identifier="8D076B58"/>
+    <component base="dotaccentcomb.case" xScale="1.3766" yScale="1.0885" xOffset="171" yOffset="148" identifier="ECE22049"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>8D076B58</key>
+        <key>ECE22049</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -3,9 +3,9 @@
   <advance width="891"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="fraction" xOffset="214" identifier="C3461732"/>
-    <component base="four" xScale="0.6348" yScale="0.6348" xOffset="489" yOffset="-129" identifier="B066F8B9"/>
-    <component base="three" xScale="0.5843" yScale="0.5843" xOffset="12" yOffset="340" identifier="8DE3436C"/>
+    <component base="fraction" xOffset="214" identifier="7381DFB9"/>
+    <component base="four" xScale="0.6348" yScale="0.6348" xOffset="489" yOffset="-129" identifier="BAE8EB9A"/>
+    <component base="three" xScale="0.5843" yScale="0.5843" xOffset="12" yOffset="340" identifier="0D8D5B13"/>
   </outline>
   <lib>
     <dict>
@@ -40,17 +40,17 @@
       <string>0,0.2,0.88,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8DE3436C</key>
+        <key>0D8D5B13</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B066F8B9</key>
+        <key>7381DFB9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C3461732</key>
+        <key>BAE8EB9A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

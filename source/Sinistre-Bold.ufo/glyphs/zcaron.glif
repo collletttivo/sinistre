@@ -3,8 +3,8 @@
   <advance width="534"/>
   <unicode hex="017E"/>
   <outline>
-    <component base="z" xOffset="6" identifier="BB5F79D7"/>
-    <component base="caron" xOffset="100" yOffset="20" identifier="B53E129E"/>
+    <component base="z" xOffset="6" identifier="6FED7F8C"/>
+    <component base="caron" xOffset="100" yOffset="20" identifier="B1C99EF8"/>
   </outline>
   <lib>
     <dict>
@@ -37,12 +37,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>B53E129E</key>
+        <key>6FED7F8C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>BB5F79D7</key>
+        <key>B1C99EF8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

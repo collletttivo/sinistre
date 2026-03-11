@@ -9,6 +9,9 @@ ref = y;
 },
 {
 alignment = -1;
+attr = {
+identifier = C6A5437A;
+};
 pos = (19,-18);
 ref = tildecomb;
 }
@@ -39,6 +42,9 @@ ref = y;
 },
 {
 alignment = -1;
+attr = {
+identifier = 1F82959D;
+};
 pos = (36,-15);
 ref = tildecomb;
 }
@@ -69,6 +75,9 @@ ref = y;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3DA9BA15;
+};
 pos = (39,0);
 ref = tildecomb;
 }

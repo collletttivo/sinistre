@@ -8,11 +8,17 @@ layerId = "452AD06C-4D92-427C-8B35-838986F56274";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = EA813C92;
+};
 pos = (-9,0);
 ref = u;
 },
 {
 alignment = -1;
+attr = {
+identifier = A70EDDB5;
+};
 pos = (-2,-49);
 ref = macron;
 }
@@ -40,11 +46,17 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = C18B2842;
+};
 pos = (-9,0);
 ref = u;
 },
 {
 alignment = -1;
+attr = {
+identifier = DEBEA20C;
+};
 pos = (92,-6);
 ref = macron;
 }
@@ -72,11 +84,17 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = F2EE3919;
+};
 pos = (-9,0);
 ref = u;
 },
 {
 alignment = -1;
+attr = {
+identifier = 9DF01F25;
+};
 pos = (49,-25);
 ref = macron;
 }

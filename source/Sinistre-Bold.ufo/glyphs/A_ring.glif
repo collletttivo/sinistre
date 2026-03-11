@@ -6,8 +6,8 @@
   <anchor x="644" y="10" name="ogonek"/>
   <anchor x="252" y="873" name="top"/>
   <outline>
-    <component base="A" identifier="4D89D19D"/>
-    <component base="ring.case" xOffset="144" identifier="CDA30042"/>
+    <component base="A" identifier="77EF7B8B"/>
+    <component base="ring.case" xOffset="144" identifier="A857C85A"/>
   </outline>
   <lib>
     <dict>
@@ -42,12 +42,12 @@
       <string>A</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4D89D19D</key>
+        <key>77EF7B8B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>CDA30042</key>
+        <key>A857C85A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

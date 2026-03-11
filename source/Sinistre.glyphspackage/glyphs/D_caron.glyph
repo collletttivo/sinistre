@@ -8,10 +8,16 @@ layerId = "452AD06C-4D92-427C-8B35-838986F56274";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 4321351C;
+};
 ref = D;
 },
 {
 alignment = -1;
+attr = {
+identifier = 4EC0254A;
+};
 pos = (173,0);
 ref = caron.case;
 }
@@ -39,10 +45,16 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 79DADCE7;
+};
 ref = D;
 },
 {
 alignment = -1;
+attr = {
+identifier = E5063575;
+};
 pos = (101,51);
 ref = caron.case;
 }
@@ -70,10 +82,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = E3905AA0;
+};
 ref = D;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3FDB794A;
+};
 pos = (134,28);
 ref = caron.case;
 }

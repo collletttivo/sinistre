@@ -59,6 +59,9 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 50435E9B;
+};
 ref = hyphen;
 }
 );

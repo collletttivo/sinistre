@@ -9,6 +9,9 @@ ref = z;
 },
 {
 alignment = -1;
+attr = {
+identifier = 51C3ACCD;
+};
 pos = (84,0);
 ref = dotaccentcomb;
 }
@@ -39,6 +42,9 @@ ref = z;
 },
 {
 alignment = -1;
+attr = {
+identifier = F166BF84;
+};
 pos = (163,-20);
 ref = dotaccentcomb;
 }
@@ -66,10 +72,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 1F8AE37D;
+};
 ref = z;
 },
 {
 alignment = -1;
+attr = {
+identifier = 77A2781D;
+};
 pos = (99,-11);
 ref = dotaccentcomb;
 }

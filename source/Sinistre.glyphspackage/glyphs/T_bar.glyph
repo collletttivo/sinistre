@@ -11,6 +11,9 @@ ref = T;
 },
 {
 alignment = -1;
+attr = {
+identifier = A7D4FB0C;
+};
 pos = (146,1130);
 ref = macron.case;
 scale = (0.8862,-0.9127);
@@ -42,6 +45,9 @@ ref = T;
 },
 {
 alignment = -1;
+attr = {
+identifier = DE77B18F;
+};
 pos = (102,1169);
 ref = macron.case;
 scale = (1.1451,-1);
@@ -70,10 +76,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = B47C0FBF;
+};
 ref = T;
 },
 {
 alignment = -1;
+attr = {
+identifier = 4CEEB8C2;
+};
 pos = (122,1151);
 ref = macron.case;
 scale = (1.0278,-0.9604);

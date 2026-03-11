@@ -3,7 +3,7 @@
   <advance width="316"/>
   <outline>
     <component base="jdotless"/>
-    <component base="dotaccentcomb" xOffset="38" yOffset="-20" identifier="F8051109"/>
+    <component base="dotaccentcomb" xOffset="38" yOffset="-20" identifier="1C568B3E"/>
   </outline>
   <lib>
     <dict>
@@ -38,7 +38,7 @@
       <string>0.04,0.57,0.04,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>F8051109</key>
+        <key>1C568B3E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

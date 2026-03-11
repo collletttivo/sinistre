@@ -11,6 +11,9 @@ ref = idotless;
 },
 {
 alignment = -1;
+attr = {
+identifier = 37CB3378;
+};
 pos = (-62,92);
 ref = dieresiscomb;
 scale = (0.863,0.8323);
@@ -69,10 +72,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 5062900B;
+};
 ref = idotless;
 },
 {
 alignment = -1;
+attr = {
+identifier = D0B918F1;
+};
 pos = (-36,79);
 ref = dieresiscomb;
 scale = (0.88,0.88);

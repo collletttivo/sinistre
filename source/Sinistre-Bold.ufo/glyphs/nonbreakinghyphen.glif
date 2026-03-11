@@ -3,7 +3,7 @@
   <advance width="470"/>
   <unicode hex="2011"/>
   <outline>
-    <component base="hyphen" identifier="CBBDF182"/>
+    <component base="hyphen" identifier="50435E9B"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
       <string>hyphen</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>CBBDF182</key>
+        <key>50435E9B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

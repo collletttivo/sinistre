@@ -7,7 +7,7 @@
   <anchor x="166" y="500" name="top"/>
   <anchor x="277" y="500" name="topright"/>
   <outline>
-    <component base="t" xOffset="11" identifier="22CC8973"/>
+    <component base="t" xOffset="11" identifier="FFB30093"/>
     <component base="cedillacomb" xOffset="46"/>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>22CC8973</key>
+        <key>FFB30093</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

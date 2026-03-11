@@ -5,8 +5,8 @@
   <anchor x="155" y="-164" name="bottom"/>
   <anchor x="322" y="722" name="top"/>
   <outline>
-    <component base="R" identifier="DB20E3E4"/>
-    <component base="commaaccentcomb" xScale="0.9679" yScale="1.0735" xOffset="251" yOffset="-63" identifier="882D86BE"/>
+    <component base="R" identifier="456BBF19"/>
+    <component base="commaaccentcomb" xScale="0.9679" yScale="1.0735" xOffset="251" yOffset="-63" identifier="B4DB6750"/>
   </outline>
   <lib>
     <dict>
@@ -41,12 +41,12 @@
       <string>R</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>882D86BE</key>
+        <key>456BBF19</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DB20E3E4</key>
+        <key>B4DB6750</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

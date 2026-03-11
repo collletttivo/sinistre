@@ -5,8 +5,8 @@
   <anchor x="150" y="-178" name="bottom"/>
   <anchor x="313" y="722" name="top"/>
   <outline>
-    <component base="K" identifier="3524D4AB"/>
-    <component base="commaaccentcomb" xScale="0.9679" yScale="1.0735" xOffset="240" yOffset="-61" identifier="62B2A544"/>
+    <component base="K" identifier="B7F53C68"/>
+    <component base="commaaccentcomb" xScale="0.9679" yScale="1.0735" xOffset="240" yOffset="-61" identifier="3F6E4A1B"/>
   </outline>
   <lib>
     <dict>
@@ -43,12 +43,12 @@
       <string>K</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>3524D4AB</key>
+        <key>3F6E4A1B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>62B2A544</key>
+        <key>B7F53C68</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

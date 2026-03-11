@@ -17,7 +17,7 @@
       <point x="76" y="675"/>
       <point x="87" y="635"/>
     </contour>
-    <component base="period" xOffset="57" yOffset="-16" identifier="A85A30B4"/>
+    <component base="period" xOffset="57" yOffset="-16" identifier="340BBF75"/>
   </outline>
   <lib>
     <dict>
@@ -50,7 +50,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A85A30B4</key>
+        <key>340BBF75</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

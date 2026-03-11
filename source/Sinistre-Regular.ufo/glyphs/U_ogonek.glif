@@ -4,7 +4,7 @@
   <unicode hex="0172"/>
   <outline>
     <component base="U"/>
-    <component base="ogonekcomb" xScale="0.9848" xyScale="-0.1736" yScale="0.9848" yxScale="0.1736" xOffset="389" yOffset="94" identifier="EDCC84F6"/>
+    <component base="ogonekcomb" xScale="0.9848" xyScale="-0.1736" yScale="0.9848" yxScale="0.1736" xOffset="389" yOffset="94" identifier="87330E27"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>EDCC84F6</key>
+        <key>87330E27</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

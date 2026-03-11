@@ -9,6 +9,9 @@ ref = S;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3F5EA012;
+};
 pos = (201,-102);
 ref = commaaccentcomb;
 scale = (0.8403,1);
@@ -40,6 +43,9 @@ ref = S;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3642BF8C;
+};
 pos = (248,-123);
 ref = commaaccentcomb;
 }
@@ -67,10 +73,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 9178A658;
+};
 ref = S;
 },
 {
 alignment = -1;
+attr = {
+identifier = CD4BF236;
+};
 pos = (204,-113);
 ref = commaaccentcomb;
 }

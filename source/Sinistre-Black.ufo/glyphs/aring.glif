@@ -7,7 +7,7 @@
   <anchor x="187" y="651" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ring" xScale="1.1591" xOffset="102" identifier="1E59BABB"/>
+    <component base="ring" xScale="1.1591" xOffset="102" identifier="A569E78C"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>1E59BABB</key>
+        <key>A569E78C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -3,7 +3,7 @@
   <advance width="240"/>
   <unicode hex="012B"/>
   <outline>
-    <component base="idotless" identifier="8AB95D4F"/>
+    <component base="idotless" identifier="FE84B7C0"/>
     <component base="macron" xScale="0.5709" xOffset="-39" yOffset="-59"/>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>8AB95D4F</key>
+        <key>FE84B7C0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

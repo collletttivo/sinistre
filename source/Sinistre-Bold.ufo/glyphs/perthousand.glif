@@ -7,9 +7,9 @@ perthousand
 </note>
   <outline>
     <component base="slash" yxScale="0.0698" xOffset="208"/>
-    <component base="zero" xScale="0.6557" yScale="0.537" xOffset="24" yOffset="392" identifier="867BE3B2"/>
-    <component base="zero" xScale="0.6557" yScale="0.537" xOffset="462" yOffset="-9" identifier="A897635E"/>
-    <component base="zero" xScale="0.6557" yScale="0.537" xOffset="879" yOffset="-9" identifier="849852FF"/>
+    <component base="zero" xScale="0.6557" yScale="0.537" xOffset="24" yOffset="392" identifier="C0F70FAF"/>
+    <component base="zero" xScale="0.6557" yScale="0.537" xOffset="462" yOffset="-9" identifier="8203DDBD"/>
+    <component base="zero" xScale="0.6557" yScale="0.537" xOffset="879" yOffset="-9" identifier="D15388F0"/>
   </outline>
   <lib>
     <dict>
@@ -42,17 +42,17 @@ perthousand
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>849852FF</key>
+        <key>8203DDBD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>867BE3B2</key>
+        <key>C0F70FAF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A897635E</key>
+        <key>D15388F0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

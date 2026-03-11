@@ -11,6 +11,9 @@ ref = a;
 },
 {
 alignment = -1;
+attr = {
+identifier = EB42B914;
+};
 pos = (24,0);
 ref = circumflexcomb;
 }
@@ -41,6 +44,9 @@ ref = a;
 },
 {
 alignment = -1;
+attr = {
+identifier = BFE818AE;
+};
 pos = (33,0);
 ref = circumflexcomb;
 }
@@ -68,10 +74,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = C3B7E47F;
+};
 ref = a;
 },
 {
 alignment = -1;
+attr = {
+identifier = AFFC8F34;
+};
 pos = (29,0);
 ref = circumflexcomb;
 }

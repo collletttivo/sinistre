@@ -4,7 +4,7 @@
   <unicode hex="0174"/>
   <outline>
     <component base="W"/>
-    <component base="circumflexcomb.case" xOffset="410" yOffset="221" identifier="95D775AC"/>
+    <component base="circumflexcomb.case" xOffset="410" yOffset="221" identifier="A14BF599"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>95D775AC</key>
+        <key>A14BF599</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

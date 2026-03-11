@@ -11,6 +11,9 @@ ref = C;
 },
 {
 alignment = -1;
+attr = {
+identifier = 4C5D2666;
+};
 pos = (276,-19);
 ref = cedillacomb.case;
 }
@@ -38,10 +41,16 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 97F7466E;
+};
 ref = C;
 },
 {
 alignment = -1;
+attr = {
+identifier = BF88474A;
+};
 pos = (307,-10);
 ref = cedillacomb.case;
 }
@@ -69,10 +78,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 498416E1;
+};
 ref = C;
 },
 {
 alignment = -1;
+attr = {
+identifier = 2170015C;
+};
 pos = (292,-3);
 ref = cedillacomb.case;
 }

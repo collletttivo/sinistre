@@ -15,7 +15,7 @@
       <point x="538" y="222" type="line"/>
       <point x="138" y="222" type="line"/>
     </contour>
-    <component base="Y" identifier="1A92DDDE"/>
+    <component base="Y" identifier="4525C8E5"/>
   </outline>
   <lib>
     <dict>
@@ -52,7 +52,7 @@
       <string>0.04,0.57,0.04,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>1A92DDDE</key>
+        <key>4525C8E5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

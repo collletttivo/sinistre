@@ -30,7 +30,7 @@
       <point x="499" y="484" type="curve"/>
       <point x="499" y="500" type="line"/>
     </contour>
-    <component base="l" identifier="E02E210F"/>
+    <component base="l" identifier="DABD9803"/>
   </outline>
   <lib>
     <dict>
@@ -67,7 +67,7 @@
       <string>0.04,0.57,0.04,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>E02E210F</key>
+        <key>DABD9803</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

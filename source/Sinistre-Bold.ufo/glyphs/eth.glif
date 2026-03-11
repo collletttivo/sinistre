@@ -37,7 +37,7 @@
       <point x="40" y="100"/>
       <point x="146" y="-29"/>
     </contour>
-    <component base="hyphen" xScale="0.8631" xyScale="0.6271" yScale="-0.6331" yxScale="0.4599" xOffset="-23" yOffset="674" identifier="CA3F021B"/>
+    <component base="hyphen" xScale="0.8631" xyScale="0.6271" yScale="-0.6331" yxScale="0.4599" xOffset="-23" yOffset="674" identifier="644C6CAE"/>
   </outline>
   <lib>
     <dict>
@@ -70,7 +70,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>CA3F021B</key>
+        <key>644C6CAE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

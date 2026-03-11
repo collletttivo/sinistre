@@ -6,8 +6,8 @@
   <anchor x="338" y="10" name="ogonek"/>
   <anchor x="58" y="651" name="top"/>
   <outline>
-    <component base="a" identifier="38DEF7D1"/>
-    <component base="ring" xOffset="100" identifier="AA440C45"/>
+    <component base="a" identifier="A25A53CB"/>
+    <component base="ring" xOffset="100" identifier="437F6AC7"/>
   </outline>
   <lib>
     <dict>
@@ -40,12 +40,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>38DEF7D1</key>
+        <key>437F6AC7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AA440C45</key>
+        <key>A25A53CB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

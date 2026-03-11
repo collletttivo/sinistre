@@ -9,6 +9,9 @@ ref = g;
 },
 {
 alignment = -1;
+attr = {
+identifier = B74C9E35;
+};
 pos = (34,-21);
 ref = macron;
 }
@@ -39,6 +42,9 @@ ref = g;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3EFE3DE5;
+};
 pos = (85,0);
 ref = macron;
 }
@@ -69,6 +75,9 @@ ref = g;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3FF18534;
+};
 pos = (141,19);
 ref = macron;
 }

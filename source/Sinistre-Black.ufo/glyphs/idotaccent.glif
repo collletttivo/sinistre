@@ -3,7 +3,7 @@
   <advance width="330"/>
   <outline>
     <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="49" yOffset="-16" identifier="FC2BB504"/>
+    <component base="dotaccentcomb" xOffset="49" yOffset="-16" identifier="0560F86C"/>
   </outline>
   <lib>
     <dict>
@@ -36,7 +36,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>FC2BB504</key>
+        <key>0560F86C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

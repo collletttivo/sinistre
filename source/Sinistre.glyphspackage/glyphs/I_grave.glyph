@@ -11,6 +11,9 @@ ref = I;
 },
 {
 alignment = -1;
+attr = {
+identifier = A4AFE6E4;
+};
 pos = (-53,222);
 ref = gravecomb.case;
 }
@@ -41,6 +44,9 @@ ref = I;
 },
 {
 alignment = -1;
+attr = {
+identifier = 34942BC4;
+};
 pos = (-47,240);
 ref = gravecomb.case;
 }
@@ -68,10 +74,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 091456CA;
+};
 ref = I;
 },
 {
 alignment = -1;
+attr = {
+identifier = 259ED34D;
+};
 pos = (-69,218);
 ref = gravecomb.case;
 scale = (0.9173,1);

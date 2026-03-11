@@ -2,8 +2,8 @@
 <glyph name="idotaccent" format="2">
   <advance width="261.0625"/>
   <outline>
-    <component base="idotless" identifier="15441ED5"/>
-    <component base="dotaccentcomb" xOffset="-61" yOffset="-4" identifier="0FE0904F"/>
+    <component base="idotless" identifier="8D15956A"/>
+    <component base="dotaccentcomb" xOffset="-61" yOffset="-4" identifier="F0CE2BB6"/>
   </outline>
   <lib>
     <dict>
@@ -36,12 +36,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>0FE0904F</key>
+        <key>8D15956A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>15441ED5</key>
+        <key>F0CE2BB6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

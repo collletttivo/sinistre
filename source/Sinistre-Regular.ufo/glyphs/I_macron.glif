@@ -3,7 +3,7 @@
   <advance width="227"/>
   <unicode hex="012A"/>
   <outline>
-    <component base="I" identifier="D2333933"/>
+    <component base="I" identifier="0000EEB8"/>
     <component base="macron.case" xScale="0.6657" xOffset="-17" yOffset="-17"/>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>D2333933</key>
+        <key>0000EEB8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

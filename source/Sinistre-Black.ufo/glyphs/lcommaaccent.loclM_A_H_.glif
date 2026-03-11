@@ -3,7 +3,7 @@
   <advance width="328"/>
   <outline>
     <component base="l"/>
-    <component base="commaaccentcomb.loclMAH" xOffset="-144" identifier="D6177EB1"/>
+    <component base="commaaccentcomb.loclMAH" xOffset="-144" identifier="31EDBEF1"/>
   </outline>
   <lib>
     <dict>
@@ -36,7 +36,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>D6177EB1</key>
+        <key>31EDBEF1</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

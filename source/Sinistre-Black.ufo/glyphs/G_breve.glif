@@ -4,7 +4,7 @@
   <unicode hex="011E"/>
   <outline>
     <component base="G"/>
-    <component base="breve.case" xScale="0.8546" yScale="0.8382" xOffset="276" yOffset="163" identifier="4BB5788E"/>
+    <component base="breve.case" xScale="0.8546" yScale="0.8382" xOffset="276" yOffset="163" identifier="28F6A17E"/>
   </outline>
   <lib>
     <dict>
@@ -41,7 +41,7 @@
       <string>G</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4BB5788E</key>
+        <key>28F6A17E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

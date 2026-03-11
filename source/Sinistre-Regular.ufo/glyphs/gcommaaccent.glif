@@ -4,7 +4,7 @@
   <unicode hex="0123"/>
   <outline>
     <component base="g"/>
-    <component base="commaturnedabovecomb" xScale="0.9903" xyScale="-0.1392" yScale="0.9903" yxScale="0.1392" xOffset="95" yOffset="17" identifier="2906EBED"/>
+    <component base="commaturnedabovecomb" xScale="0.9903" xyScale="-0.1392" yScale="0.9903" yxScale="0.1392" xOffset="95" yOffset="17" identifier="ABA847E8"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>2906EBED</key>
+        <key>ABA847E8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

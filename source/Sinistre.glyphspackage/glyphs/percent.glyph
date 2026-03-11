@@ -84,12 +84,18 @@ slant = (3.9951,0);
 },
 {
 alignment = -1;
+attr = {
+identifier = 25C78D71;
+};
 pos = (30,392);
 ref = zero;
 scale = (0.6557,0.537);
 },
 {
 alignment = -1;
+attr = {
+identifier = CB893DBF;
+};
 pos = (465,-9);
 ref = zero;
 scale = (0.6557,0.537);

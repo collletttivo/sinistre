@@ -3,8 +3,8 @@
   <advance width="647"/>
   <unicode hex="0024"/>
   <outline>
-    <component base="S" identifier="8E5EB116"/>
-    <component base="slash" xScale="0.6617" yScale="1.0777" xOffset="179" yOffset="-62" identifier="10B046BC"/>
+    <component base="S" identifier="90F9A162"/>
+    <component base="slash" xScale="0.6617" yScale="1.0777" xOffset="179" yOffset="-62" identifier="AA62478B"/>
   </outline>
   <lib>
     <dict>
@@ -43,12 +43,12 @@
       <string>0.04,0.57,0.04,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>10B046BC</key>
+        <key>90F9A162</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>8E5EB116</key>
+        <key>AA62478B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

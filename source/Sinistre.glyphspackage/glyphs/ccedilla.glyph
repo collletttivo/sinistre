@@ -66,10 +66,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = DE00DEB8;
+};
 ref = c;
 },
 {
 alignment = -1;
+attr = {
+identifier = C96D5B5C;
+};
 pos = (130,0);
 ref = cedillacomb;
 }

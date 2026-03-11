@@ -4,7 +4,7 @@
   <unicode hex="0170"/>
   <outline>
     <component base="U"/>
-    <component base="hungarumlautcomb.case" xOffset="117" yOffset="241" identifier="E5F55FE7"/>
+    <component base="hungarumlautcomb.case" xOffset="117" yOffset="241" identifier="24731172"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>E5F55FE7</key>
+        <key>24731172</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -3,8 +3,8 @@
   <advance width="828.03125"/>
   <unicode hex="0150"/>
   <outline>
-    <component base="O" identifier="CEFDFF9F"/>
-    <component base="hungarumlautcomb.case" xOffset="203" yOffset="233" identifier="D9237B18"/>
+    <component base="O" identifier="1A891429"/>
+    <component base="hungarumlautcomb.case" xOffset="203" yOffset="233" identifier="84FB58F0"/>
   </outline>
   <lib>
     <dict>
@@ -37,12 +37,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>CEFDFF9F</key>
+        <key>1A891429</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D9237B18</key>
+        <key>84FB58F0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

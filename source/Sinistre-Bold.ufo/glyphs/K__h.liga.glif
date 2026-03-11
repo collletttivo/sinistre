@@ -65,7 +65,7 @@
       <point x="391" y="354"/>
       <point x="441" y="280"/>
     </contour>
-    <component base="l" xOffset="656" identifier="99357E0A"/>
+    <component base="l" xOffset="656" identifier="2BCAD8D8"/>
   </outline>
   <lib>
     <dict>
@@ -102,7 +102,7 @@
       <string>h</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>99357E0A</key>
+        <key>2BCAD8D8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

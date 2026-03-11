@@ -3,7 +3,7 @@
   <advance width="289"/>
   <outline>
     <component base="J"/>
-    <component base="acutecomb.case" xScale="0.8938" xOffset="-14" yOffset="219" identifier="A5333F16"/>
+    <component base="acutecomb.case" xScale="0.8938" xOffset="-14" yOffset="219" identifier="9FE634C6"/>
   </outline>
   <lib>
     <dict>
@@ -36,7 +36,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A5333F16</key>
+        <key>9FE634C6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

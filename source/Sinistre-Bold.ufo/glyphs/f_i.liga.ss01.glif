@@ -42,8 +42,8 @@
       <point x="73" y="483"/>
       <point x="90" y="461"/>
     </contour>
-    <component base="idotless" xOffset="330" identifier="763B8552"/>
-    <component base="dotaccentcomb" xScale="1.0106" xOffset="279" yOffset="4" identifier="B0F8C5AB"/>
+    <component base="idotless" xOffset="330" identifier="0FAB0051"/>
+    <component base="dotaccentcomb" xScale="1.0106" xOffset="279" yOffset="4" identifier="6916C0A5"/>
   </outline>
   <lib>
     <dict>
@@ -82,12 +82,12 @@
       <string>0.25,0.25,0.25,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>763B8552</key>
+        <key>0FAB0051</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B0F8C5AB</key>
+        <key>6916C0A5</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

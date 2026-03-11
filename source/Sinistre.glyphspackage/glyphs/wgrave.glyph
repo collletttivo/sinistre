@@ -41,6 +41,9 @@ ref = w;
 {
 alignment = -1;
 angle = 20.00004;
+attr = {
+identifier = 8C555DA2;
+};
 pos = (518,7);
 ref = gravecomb;
 }
@@ -68,11 +71,17 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 73E0CE17;
+};
 ref = w;
 },
 {
 alignment = -1;
 angle = 10.93766;
+attr = {
+identifier = 979AAAB0;
+};
 pos = (420,18);
 ref = gravecomb;
 }

@@ -2,8 +2,8 @@
 <glyph name="j.ss01" format="2">
   <advance width="276.1875"/>
   <outline>
-    <component base="jdotless" xOffset="8" identifier="856F3FCE"/>
-    <component base="dotaccentcomb" xOffset="-48" yOffset="5" identifier="0DB790CC"/>
+    <component base="jdotless" xOffset="8" identifier="D7AA22E3"/>
+    <component base="dotaccentcomb" xOffset="-48" yOffset="5" identifier="F424678B"/>
   </outline>
   <lib>
     <dict>
@@ -38,12 +38,12 @@
       <string>0.04,0.57,0.04,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0DB790CC</key>
+        <key>D7AA22E3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>856F3FCE</key>
+        <key>F424678B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

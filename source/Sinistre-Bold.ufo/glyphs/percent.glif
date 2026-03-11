@@ -4,8 +4,8 @@
   <unicode hex="0025"/>
   <outline>
     <component base="slash" yxScale="0.0698" xOffset="217"/>
-    <component base="zero" xScale="0.6557" yScale="0.537" xOffset="30" yOffset="392" identifier="C356BF03"/>
-    <component base="zero" xScale="0.6557" yScale="0.537" xOffset="465" yOffset="-9" identifier="2BA85255"/>
+    <component base="zero" xScale="0.6557" yScale="0.537" xOffset="30" yOffset="392" identifier="25C78D71"/>
+    <component base="zero" xScale="0.6557" yScale="0.537" xOffset="465" yOffset="-9" identifier="CB893DBF"/>
   </outline>
   <lib>
     <dict>
@@ -38,12 +38,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>2BA85255</key>
+        <key>25C78D71</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C356BF03</key>
+        <key>CB893DBF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

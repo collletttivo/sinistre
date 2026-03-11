@@ -40,6 +40,9 @@ ref = O;
 },
 {
 alignment = -1;
+attr = {
+identifier = FA44C019;
+};
 pos = (203,242);
 ref = hungarumlautcomb.case;
 }
@@ -67,10 +70,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 1A891429;
+};
 ref = O;
 },
 {
 alignment = -1;
+attr = {
+identifier = 84FB58F0;
+};
 pos = (203,233);
 ref = hungarumlautcomb.case;
 }

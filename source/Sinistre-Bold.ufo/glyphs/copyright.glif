@@ -6,8 +6,8 @@
 copyright
 </note>
   <outline>
-    <component base="O" identifier="09A3A25C"/>
-    <component base="C" xScale="0.9602" yScale="0.9956" xOffset="338" yOffset="2" identifier="809699AA"/>
+    <component base="O" identifier="1BA63141"/>
+    <component base="C" xScale="0.9602" yScale="0.9956" xOffset="338" yOffset="2" identifier="1F053804"/>
   </outline>
   <lib>
     <dict>
@@ -46,12 +46,12 @@ copyright
       <string>0.04,0.57,0.04,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>09A3A25C</key>
+        <key>1BA63141</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>809699AA</key>
+        <key>1F053804</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

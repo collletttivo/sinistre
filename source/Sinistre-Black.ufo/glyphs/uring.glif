@@ -7,8 +7,8 @@
   <anchor x="264" y="651" name="top"/>
   <anchor x="517" y="500" name="topright"/>
   <outline>
-    <component base="ring" xOffset="178" identifier="9505D73A"/>
-    <component base="u" xOffset="-9" identifier="F3787E0A"/>
+    <component base="ring" xOffset="178" identifier="AF2F766F"/>
+    <component base="u" xOffset="-9" identifier="0CD46136"/>
   </outline>
   <lib>
     <dict>
@@ -41,12 +41,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>9505D73A</key>
+        <key>0CD46136</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F3787E0A</key>
+        <key>AF2F766F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

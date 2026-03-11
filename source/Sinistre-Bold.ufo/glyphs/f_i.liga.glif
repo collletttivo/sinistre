@@ -34,7 +34,7 @@
       <point x="382" y="448" type="line"/>
       <point x="376" y="500" type="line"/>
     </contour>
-    <component base="idotless" xOffset="288" identifier="AE0B9593"/>
+    <component base="idotless" xOffset="288" identifier="1D91C5CC"/>
   </outline>
   <lib>
     <dict>
@@ -71,7 +71,7 @@
       <string>i</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>AE0B9593</key>
+        <key>1D91C5CC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

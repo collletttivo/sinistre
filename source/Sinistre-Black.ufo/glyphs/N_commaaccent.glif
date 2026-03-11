@@ -3,8 +3,8 @@
   <advance width="843"/>
   <unicode hex="0145"/>
   <outline>
-    <component base="N" identifier="CB30594F"/>
-    <component base="commaaccentcomb" xOffset="349" yOffset="-58" identifier="03F064BA"/>
+    <component base="N" identifier="AFD4A756"/>
+    <component base="commaaccentcomb" xOffset="349" yOffset="-58" identifier="C4D8E8D3"/>
   </outline>
   <lib>
     <dict>
@@ -41,12 +41,12 @@
       <string>N</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>03F064BA</key>
+        <key>AFD4A756</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>CB30594F</key>
+        <key>C4D8E8D3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

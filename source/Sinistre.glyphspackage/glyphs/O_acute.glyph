@@ -11,6 +11,9 @@ ref = O;
 },
 {
 alignment = -1;
+attr = {
+identifier = 94BB5878;
+};
 pos = (311,222);
 ref = acutecomb.case;
 }
@@ -41,6 +44,9 @@ ref = O;
 },
 {
 alignment = -1;
+attr = {
+identifier = C33759DD;
+};
 pos = (200,242);
 ref = acutecomb.case;
 }
@@ -68,10 +74,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 81CF848D;
+};
 ref = O;
 },
 {
 alignment = -1;
+attr = {
+identifier = 42EEAC0F;
+};
 pos = (250,233);
 ref = acutecomb.case;
 }

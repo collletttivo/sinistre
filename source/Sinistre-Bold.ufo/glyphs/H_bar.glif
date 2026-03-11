@@ -3,9 +3,9 @@
   <advance width="729.34375"/>
   <unicode hex="0126"/>
   <outline>
-    <component base="H" identifier="13855654"/>
-    <component base="endash" xScale="1.0037" xyScale="-0.0298" yScale="0.8285" yxScale="0.0246" xOffset="97" yOffset="225" identifier="80135C8C"/>
-    <component base="endash" xScale="-1.0095" xyScale="0.0296" yScale="-0.8204" yxScale="-0.0241" xOffset="660" yOffset="503" identifier="2590C3C6"/>
+    <component base="H" identifier="C0404637"/>
+    <component base="endash" xScale="1.0037" xyScale="-0.0298" yScale="0.8285" yxScale="0.0246" xOffset="97" yOffset="225" identifier="71B037A9"/>
+    <component base="endash" xScale="-1.0095" xyScale="0.0296" yScale="-0.8204" yxScale="-0.0241" xOffset="660" yOffset="503" identifier="4D6B1F97"/>
   </outline>
   <lib>
     <dict>
@@ -38,17 +38,17 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>13855654</key>
+        <key>4D6B1F97</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>2590C3C6</key>
+        <key>71B037A9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>80135C8C</key>
+        <key>C0404637</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

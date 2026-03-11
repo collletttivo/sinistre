@@ -7,7 +7,7 @@
   <anchor x="344" y="722" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="commaaccentcomb" xOffset="229" yOffset="-113" identifier="C4F5EA2A"/>
+    <component base="commaaccentcomb" xOffset="229" yOffset="-113" identifier="90F95A1F"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>C4F5EA2A</key>
+        <key>90F95A1F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

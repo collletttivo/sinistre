@@ -73,12 +73,18 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
+attr = {
+identifier = A0D02BB6;
+};
 pos = (342,1200);
 ref = quoteleft;
 },
 {
 alignment = -1;
 angle = 180;
+attr = {
+identifier = AF5AE85A;
+};
 pos = (220,1200);
 ref = quoteleft;
 }

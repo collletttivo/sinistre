@@ -40,6 +40,9 @@ ref = U;
 },
 {
 alignment = -1;
+attr = {
+identifier = CEFE3785;
+};
 pos = (165,212);
 ref = circumflexcomb.case;
 }
@@ -67,10 +70,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = F1B14A3B;
+};
 ref = U;
 },
 {
 alignment = -1;
+attr = {
+identifier = 6EAEE630;
+};
 pos = (151,212);
 ref = circumflexcomb.case;
 }

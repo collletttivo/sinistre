@@ -3,8 +3,8 @@
   <advance width="727"/>
   <unicode hex="00C7"/>
   <outline>
-    <component base="C" identifier="F7A1D389"/>
-    <component base="cedillacomb.case" xOffset="307" yOffset="-10" identifier="8EAB4F7C"/>
+    <component base="C" identifier="97F7466E"/>
+    <component base="cedillacomb.case" xOffset="307" yOffset="-10" identifier="BF88474A"/>
   </outline>
   <lib>
     <dict>
@@ -41,12 +41,12 @@
       <string>C</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>8EAB4F7C</key>
+        <key>97F7466E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F7A1D389</key>
+        <key>BF88474A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

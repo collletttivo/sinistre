@@ -12,6 +12,9 @@ ref = e;
 {
 alignment = -1;
 angle = -16.00017;
+attr = {
+identifier = 35DBCAE9;
+};
 pos = (289,59);
 ref = ogonekcomb;
 }
@@ -39,11 +42,17 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = FEB1B71E;
+};
 ref = e;
 },
 {
 alignment = -1;
 angle = -4.00022;
+attr = {
+identifier = 8852E2FE;
+};
 pos = (343,79);
 ref = ogonekcomb;
 }
@@ -71,11 +80,17 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = EE0E67E4;
+};
 ref = e;
 },
 {
 alignment = -1;
 angle = -6.70344;
+attr = {
+identifier = FB640668;
+};
 pos = (320,67);
 ref = ogonekcomb;
 }

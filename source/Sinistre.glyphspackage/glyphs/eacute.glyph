@@ -66,10 +66,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = C57F578F;
+};
 ref = e;
 },
 {
 alignment = -1;
+attr = {
+identifier = 64A399E6;
+};
 pos = (122,0);
 ref = acutecomb;
 }

@@ -3,8 +3,8 @@
   <advance width="256"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="period" xOffset="20" yOffset="372" identifier="55FAEDFF"/>
-    <component base="comma" xOffset="20" identifier="49827595"/>
+    <component base="period" xOffset="20" yOffset="372" identifier="DF053E77"/>
+    <component base="comma" xOffset="20" identifier="41BABD34"/>
   </outline>
   <lib>
     <dict>
@@ -41,12 +41,12 @@
       <string>colon</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>49827595</key>
+        <key>41BABD34</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>55FAEDFF</key>
+        <key>DF053E77</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

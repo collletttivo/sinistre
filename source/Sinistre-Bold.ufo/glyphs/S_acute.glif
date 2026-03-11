@@ -3,8 +3,8 @@
   <advance width="613.98438"/>
   <unicode hex="015A"/>
   <outline>
-    <component base="S" identifier="9424D94F"/>
-    <component base="acutecomb.case" xOffset="145" yOffset="233" identifier="BBB1064E"/>
+    <component base="S" identifier="463361EE"/>
+    <component base="acutecomb.case" xOffset="145" yOffset="233" identifier="CAE08FBD"/>
   </outline>
   <lib>
     <dict>
@@ -37,12 +37,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>9424D94F</key>
+        <key>463361EE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>BBB1064E</key>
+        <key>CAE08FBD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -25,6 +25,9 @@ ref = a;
 },
 {
 alignment = -1;
+attr = {
+identifier = B5B604CA;
+};
 pos = (83,0);
 ref = ring;
 }
@@ -69,6 +72,9 @@ ref = a;
 },
 {
 alignment = -1;
+attr = {
+identifier = A569E78C;
+};
 pos = (102,0);
 ref = ring;
 scale = (1.1591,1);
@@ -111,10 +117,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = A25A53CB;
+};
 ref = a;
 },
 {
 alignment = -1;
+attr = {
+identifier = 437F6AC7;
+};
 pos = (100,0);
 ref = ring;
 }

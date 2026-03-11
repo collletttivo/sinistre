@@ -3,8 +3,8 @@
   <advance width="807"/>
   <unicode hex="00D1"/>
   <outline>
-    <component base="N" identifier="5AB9A217"/>
-    <component base="tildecomb.case" xOffset="210" yOffset="201" identifier="CE098C63"/>
+    <component base="N" identifier="E0711E61"/>
+    <component base="tildecomb.case" xOffset="210" yOffset="201" identifier="93349E8C"/>
   </outline>
   <lib>
     <dict>
@@ -41,12 +41,12 @@
       <string>N</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>5AB9A217</key>
+        <key>93349E8C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>CE098C63</key>
+        <key>E0711E61</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

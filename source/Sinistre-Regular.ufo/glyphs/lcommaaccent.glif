@@ -4,7 +4,7 @@
   <unicode hex="013C"/>
   <outline>
     <component base="l"/>
-    <component base="commaaccentcomb" xScale="0.8048" yScale="1.0833" xOffset="1" yOffset="-86" identifier="D07A2A42"/>
+    <component base="commaaccentcomb" xScale="0.8048" yScale="1.0833" xOffset="1" yOffset="-86" identifier="AA78954D"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>D07A2A42</key>
+        <key>AA78954D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

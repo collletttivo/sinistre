@@ -70,12 +70,18 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = E557436C;
+};
 pos = (-51,116);
 ref = circumflexcomb;
 scale = (0.8328,0.8328);
 },
 {
 alignment = -1;
+attr = {
+identifier = 0AEA9784;
+};
 pos = (1,0);
 ref = idotless;
 }

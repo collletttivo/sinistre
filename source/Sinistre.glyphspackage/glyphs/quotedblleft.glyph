@@ -68,11 +68,17 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = CDECE10F;
+};
 pos = (0,-2);
 ref = quoteleft;
 },
 {
 alignment = -1;
+attr = {
+identifier = 869B5FA2;
+};
 pos = (128,-2);
 ref = quoteleft;
 }

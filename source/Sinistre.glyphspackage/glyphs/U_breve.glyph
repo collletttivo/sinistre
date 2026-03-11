@@ -9,6 +9,9 @@ ref = U;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3E9AEE4C;
+};
 pos = (169,109);
 ref = breve.case;
 }
@@ -39,6 +42,9 @@ ref = U;
 },
 {
 alignment = -1;
+attr = {
+identifier = E8C9AC80;
+};
 pos = (183,74);
 ref = breve.case;
 }
@@ -69,6 +75,9 @@ ref = U;
 },
 {
 alignment = -1;
+attr = {
+identifier = C45D6B00;
+};
 pos = (230,152);
 ref = breve.case;
 scale = (0.8546,0.8382);

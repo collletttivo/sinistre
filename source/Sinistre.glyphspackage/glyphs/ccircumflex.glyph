@@ -9,6 +9,9 @@ ref = c;
 },
 {
 alignment = -1;
+attr = {
+identifier = 41C29DBF;
+};
 pos = (120,-25);
 ref = circumflexcomb;
 }
@@ -39,6 +42,9 @@ ref = c;
 },
 {
 alignment = -1;
+attr = {
+identifier = A402AF6A;
+};
 pos = (107,-5);
 ref = circumflexcomb;
 }
@@ -69,6 +75,9 @@ ref = c;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3EA7F7B0;
+};
 pos = (81,0);
 ref = circumflexcomb;
 }

@@ -11,6 +11,9 @@ ref = u;
 },
 {
 alignment = -1;
+attr = {
+identifier = E676908A;
+};
 pos = (131,0);
 ref = acutecomb;
 }
@@ -41,6 +44,9 @@ ref = u;
 },
 {
 alignment = -1;
+attr = {
+identifier = F86A3008;
+};
 pos = (177,0);
 ref = acutecomb;
 }
@@ -68,10 +74,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = "21798389";
+};
 ref = u;
 },
 {
 alignment = -1;
+attr = {
+identifier = EA99CF16;
+};
 pos = (142,0);
 ref = acutecomb;
 }

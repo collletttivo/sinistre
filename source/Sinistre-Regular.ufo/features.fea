@@ -1,5 +1,5 @@
 # automatic
-@Uppercase = [ A AE B C D E F G H I J K L M N O OE P Thorn Q R S Germandbls T U V W X Y Z A_V.dlig N_N.liga R_P.liga R_Y.liga Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Cacute Ccaron Ccedilla Cdotaccent Eth Dcaron Dcroat Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Gbreve Gcommaaccent Gdotaccent Hbar Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Kcommaaccent Lacute Lcaron Lcommaaccent Lslash Nacute Ncaron Ncommaaccent Ntilde Eng Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Racute Rcaron Rcommaaccent S.ss01 Sacute Scaron Scedilla Scommaaccent Tbar Tcaron Tcedilla Tcommaaccent Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Zacute Zcaron Zdotaccent ];
+@Uppercase = [ A A.ss01 A.ss02 AE B C C.ss01 D D.ss01 E E.ss01 F F.ss01 G G.ss01 G.ss02 H H.ss01 H.ss02 I J K K.ss01 L L.ss01 M M.ss01 N N.ss01 O OE OE.ss01 P P.ss01 Q Q.ss01 R R.ss01 S S.ss01 Germandbls T T.ss01 U U.ss01 V W W.ss01 X Y Y.ss01 Z A_V.dlig E_N.liga E_T.liga N_N.liga R_P.liga R_Y.liga T_T.liga K_h.liga K_y.liga Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Eth Dcaron Dcroat Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron Hbar Hcircumflex Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde Jacute Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Lcommaaccent.loclMAH Lslash Nacute Ncaron Ncommaaccent Ncommaaccent.loclMAH Ntilde Eng Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Thorn Racute Rcaron Rcommaaccent Sacute Saltillo Scaron Scedilla Scircumflex Scommaaccent Tbar Tcaron Tcedilla Tcommaaccent Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Ytilde Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy De-cy De-cy.ss01 Ie-cy Io-cy Zhe-cy Zhe-cy.ss01 Ze-cy Ii-cy Iishort-cy Ka-cy Kje-cy El-cy El-cy.ss01 El-cy.ss02 Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy U-cy.ss01 Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Tse-cy.ss01 Sha-cy Shcha-cy Shcha-cy.ss01 Dzhe-cy Softsign-cy Softsign-cy.ss01 Yeru-cy Yeru-cy.ss01 Hardsign-cy Hardsign-cy.ss02 Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy ];
 
 # Prefix: Languagesystems
 # automatic
@@ -132,7 +132,7 @@ sub r a by r_a.liga;
 feature ss01 {
 # automatic
 featureNames {
-	name "name : Celtic";
+	name "Celtic";
 };
 sub ampersand by ampersand.ss01;
 sub periodcentered by periodcentered.ss01;
@@ -198,7 +198,7 @@ sub quotesingle by quotesingle.ss01;
 feature ss02 {
 # automatic
 featureNames {
-	name "name : Pagan";
+	name "Pagan";
 };
 sub A by A.ss02;
 sub G by G.ss02;
@@ -213,7 +213,7 @@ sub Hardsign-cy by Hardsign-cy.ss02;
 feature ss03 {
 # automatic
 featureNames {
-	name "name : Gollum";
+	name "Gollum";
 };
 sub g by g.ss03;
 } ss03;

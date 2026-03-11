@@ -25,6 +25,9 @@ ref = A;
 },
 {
 alignment = -1;
+attr = {
+identifier = "66821170";
+};
 pos = (118,0);
 ref = ring.case;
 }
@@ -69,6 +72,9 @@ ref = A;
 },
 {
 alignment = -1;
+attr = {
+identifier = 4B6B95B5;
+};
 pos = (165,0);
 ref = ring.case;
 }
@@ -110,10 +116,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 77EF7B8B;
+};
 ref = A;
 },
 {
 alignment = -1;
+attr = {
+identifier = A857C85A;
+};
 pos = (144,0);
 ref = ring.case;
 }

@@ -40,6 +40,9 @@ ref = O;
 },
 {
 alignment = -1;
+attr = {
+identifier = DA0B89C3;
+};
 pos = (153,232);
 ref = tildecomb.case;
 }
@@ -67,10 +70,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 848C85A9;
+};
 ref = O;
 },
 {
 alignment = -1;
+attr = {
+identifier = E4B33C12;
+};
 pos = (193,196);
 ref = tildecomb.case;
 }

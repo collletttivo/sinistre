@@ -3,7 +3,7 @@
   <advance width="634"/>
   <unicode hex="00BC"/>
   <outline>
-    <component base="fraction" xOffset="40" identifier="5B89C039"/>
+    <component base="fraction" xOffset="40" identifier="99DAC987"/>
     <component base="one" xScale="0.6019" yScale="0.6019" xOffset="31" yOffset="290"/>
     <component base="four" xScale="0.6348" yScale="0.6348" xOffset="281" yOffset="-155"/>
   </outline>
@@ -40,7 +40,7 @@
       <string>0,0.2,0.88,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>5B89C039</key>
+        <key>99DAC987</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

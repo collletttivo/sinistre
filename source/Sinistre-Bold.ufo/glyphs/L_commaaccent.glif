@@ -7,8 +7,8 @@
   <anchor x="301" y="722" name="top"/>
   <anchor x="572" y="722" name="topright"/>
   <outline>
-    <component base="L" identifier="14EB915E"/>
-    <component base="commaaccentcomb" yScale="1.0505" xOffset="195" yOffset="-96" identifier="2D7FC890"/>
+    <component base="L" identifier="C6EFBF52"/>
+    <component base="commaaccentcomb" yScale="1.0505" xOffset="195" yOffset="-96" identifier="F1CABF6D"/>
   </outline>
   <lib>
     <dict>
@@ -45,12 +45,12 @@
       <string>L</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>14EB915E</key>
+        <key>C6EFBF52</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>2D7FC890</key>
+        <key>F1CABF6D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

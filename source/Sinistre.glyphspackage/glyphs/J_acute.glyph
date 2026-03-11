@@ -9,6 +9,9 @@ ref = J;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3A584E3D;
+};
 pos = (-8,230);
 ref = acutecomb.case;
 }
@@ -39,6 +42,9 @@ ref = J;
 },
 {
 alignment = -1;
+attr = {
+identifier = 9FE634C6;
+};
 pos = (-14,219);
 ref = acutecomb.case;
 scale = (0.8938,1);
@@ -70,6 +76,9 @@ ref = J;
 },
 {
 alignment = -1;
+attr = {
+identifier = 75AF2A45;
+};
 pos = (-26,244);
 ref = acutecomb.case;
 }

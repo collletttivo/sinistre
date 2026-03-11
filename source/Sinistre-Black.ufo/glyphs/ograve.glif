@@ -4,7 +4,7 @@
   <unicode hex="00F2"/>
   <outline>
     <component base="o"/>
-    <component base="gravecomb" xOffset="190" yOffset="-10" identifier="B29162B2"/>
+    <component base="gravecomb" xOffset="190" yOffset="-10" identifier="4199FDC4"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>B29162B2</key>
+        <key>4199FDC4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

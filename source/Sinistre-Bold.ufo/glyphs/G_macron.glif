@@ -4,7 +4,7 @@
   <unicode hex="1E20"/>
   <outline>
     <component base="G"/>
-    <component base="macron.case" xOffset="215" identifier="4EE7366A"/>
+    <component base="macron.case" xOffset="215" identifier="4A9459DF"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>4EE7366A</key>
+        <key>4A9459DF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

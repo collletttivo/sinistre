@@ -2,7 +2,7 @@
 <glyph name="breve.case" format="2">
   <advance width="374"/>
   <outline>
-    <component base="breve" xScale="1.2157" xOffset="-13" yOffset="174" identifier="47943402"/>
+    <component base="breve" xScale="1.2157" xOffset="-13" yOffset="174" identifier="BBA6E4AC"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       <string>0.5,0.09,0.79,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>47943402</key>
+        <key>BBA6E4AC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

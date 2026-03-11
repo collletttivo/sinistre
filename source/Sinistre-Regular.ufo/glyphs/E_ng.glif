@@ -17,7 +17,7 @@
       <point x="664" y="-70"/>
       <point x="592" y="-143"/>
     </contour>
-    <component base="N" identifier="BE6FDAB0"/>
+    <component base="N" identifier="8285C517"/>
   </outline>
   <lib>
     <dict>
@@ -54,7 +54,7 @@
       <string>N</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>BE6FDAB0</key>
+        <key>8285C517</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

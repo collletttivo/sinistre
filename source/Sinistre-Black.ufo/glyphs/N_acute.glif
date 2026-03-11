@@ -4,7 +4,7 @@
   <unicode hex="0143"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb.case" xScale="1.0914" xOffset="207" yOffset="252" identifier="AB152199"/>
+    <component base="acutecomb.case" xScale="1.0914" xOffset="207" yOffset="252" identifier="1CF83F65"/>
   </outline>
   <lib>
     <dict>
@@ -39,7 +39,7 @@
       <string>N</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>AB152199</key>
+        <key>1CF83F65</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

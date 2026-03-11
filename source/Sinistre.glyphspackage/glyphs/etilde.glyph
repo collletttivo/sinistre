@@ -38,6 +38,9 @@ ref = e;
 },
 {
 alignment = -1;
+attr = {
+identifier = 2092C600;
+};
 pos = (0,-15);
 ref = tildecomb;
 }
@@ -68,6 +71,9 @@ ref = e;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3F44DA30;
+};
 pos = (-43,0);
 ref = tildecomb;
 }

@@ -11,6 +11,9 @@ ref = W;
 },
 {
 alignment = -1;
+attr = {
+identifier = E544EC8B;
+};
 pos = (336,212);
 ref = dieresiscomb.case;
 }
@@ -41,6 +44,9 @@ ref = W;
 },
 {
 alignment = -1;
+attr = {
+identifier = 7A6A9ABD;
+};
 pos = (423,212);
 ref = dieresiscomb.case;
 }
@@ -68,10 +74,16 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 620B5580;
+};
 ref = W;
 },
 {
 alignment = -1;
+attr = {
+identifier = E4631996;
+};
 pos = (374,218);
 ref = dieresiscomb.case;
 }

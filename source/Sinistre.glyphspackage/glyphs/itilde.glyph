@@ -9,6 +9,9 @@ ref = idotless;
 },
 {
 alignment = -1;
+attr = {
+identifier = A5D60ED5;
+};
 pos = (-53,3);
 ref = tildecomb;
 scale = (0.6784,0.9944);
@@ -40,6 +43,9 @@ ref = idotless;
 },
 {
 alignment = -1;
+attr = {
+identifier = 8069F3C3;
+};
 pos = (-50,0);
 ref = tildecomb;
 scale = (0.7222,1);
@@ -71,6 +77,9 @@ ref = idotless;
 },
 {
 alignment = -1;
+attr = {
+identifier = 950592EC;
+};
 pos = (-62,47);
 ref = tildecomb;
 scale = (0.7536,0.9056);

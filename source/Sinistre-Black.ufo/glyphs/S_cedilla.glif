@@ -4,7 +4,7 @@
   <unicode hex="015E"/>
   <outline>
     <component base="S"/>
-    <component base="cedillacomb.case" xOffset="234" yOffset="-21" identifier="C4F27006"/>
+    <component base="cedillacomb.case" xOffset="234" yOffset="-21" identifier="5750649C"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>C4F27006</key>
+        <key>5750649C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

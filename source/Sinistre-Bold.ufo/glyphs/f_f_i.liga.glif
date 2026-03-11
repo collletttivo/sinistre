@@ -69,7 +69,7 @@ f_f_i
       <point x="80" y="-33"/>
       <point x="61" y="-101"/>
     </contour>
-    <component base="idotless" xOffset="634" identifier="122DA729"/>
+    <component base="idotless" xOffset="634" identifier="B554C1D0"/>
   </outline>
   <lib>
     <dict>
@@ -106,7 +106,7 @@ f_f_i
       <string>i</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>122DA729</key>
+        <key>B554C1D0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

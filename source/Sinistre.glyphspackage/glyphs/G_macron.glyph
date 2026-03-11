@@ -9,6 +9,9 @@ ref = G;
 },
 {
 alignment = -1;
+attr = {
+identifier = 3CA16DEC;
+};
 pos = (234,0);
 ref = macron.case;
 }
@@ -39,6 +42,9 @@ ref = G;
 },
 {
 alignment = -1;
+attr = {
+identifier = 4A9459DF;
+};
 pos = (215,0);
 ref = macron.case;
 }
@@ -69,6 +75,9 @@ ref = G;
 },
 {
 alignment = -1;
+attr = {
+identifier = E1197719;
+};
 pos = (210,0);
 ref = macron.case;
 }

@@ -3,8 +3,8 @@
   <advance width="735"/>
   <unicode hex="0164"/>
   <outline>
-    <component base="T" identifier="3B9FFB64"/>
-    <component base="caron.case" xOffset="144" yOffset="60" identifier="E665DC5D"/>
+    <component base="T" identifier="E85252F9"/>
+    <component base="caron.case" xOffset="144" yOffset="60" identifier="8169D122"/>
   </outline>
   <lib>
     <dict>
@@ -39,12 +39,12 @@
       <string>T</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>3B9FFB64</key>
+        <key>8169D122</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E665DC5D</key>
+        <key>E85252F9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

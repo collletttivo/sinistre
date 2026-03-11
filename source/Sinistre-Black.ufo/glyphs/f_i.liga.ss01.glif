@@ -43,7 +43,7 @@
       <point x="110" y="454"/>
     </contour>
     <component base="idotless" xOffset="413"/>
-    <component base="dotaccentcomb" xScale="1.0193" xOffset="398" yOffset="7" identifier="DB1E8151"/>
+    <component base="dotaccentcomb" xScale="1.0193" xOffset="398" yOffset="7" identifier="6369A164"/>
   </outline>
   <lib>
     <dict>
@@ -82,7 +82,7 @@
       <string>0.25,0.25,0.25,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>DB1E8151</key>
+        <key>6369A164</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

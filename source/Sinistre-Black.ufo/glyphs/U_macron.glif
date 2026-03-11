@@ -3,8 +3,8 @@
   <advance width="727"/>
   <unicode hex="016A"/>
   <outline>
-    <component base="U" xOffset="35" identifier="BE6F227A"/>
-    <component base="macron.case" xOffset="171" yOffset="-36" identifier="C7404320"/>
+    <component base="U" xOffset="35" identifier="7049CE94"/>
+    <component base="macron.case" xOffset="171" yOffset="-36" identifier="2459703F"/>
   </outline>
   <lib>
     <dict>
@@ -37,12 +37,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>BE6F227A</key>
+        <key>2459703F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C7404320</key>
+        <key>7049CE94</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

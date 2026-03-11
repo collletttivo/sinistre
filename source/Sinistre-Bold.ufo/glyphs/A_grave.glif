@@ -3,8 +3,8 @@
   <advance width="747.4375"/>
   <unicode hex="00C0"/>
   <outline>
-    <component base="A" identifier="391ACAC7"/>
-    <component base="gravecomb.case" xOffset="66" yOffset="222" identifier="571F3CA6"/>
+    <component base="A" identifier="0B145CF1"/>
+    <component base="gravecomb.case" xOffset="66" yOffset="222" identifier="68598F70"/>
   </outline>
   <lib>
     <dict>
@@ -37,12 +37,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>391ACAC7</key>
+        <key>0B145CF1</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>571F3CA6</key>
+        <key>68598F70</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

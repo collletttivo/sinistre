@@ -8,6 +8,9 @@ layerId = "452AD06C-4D92-427C-8B35-838986F56274";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 4E6620CC;
+};
 pos = (11,0);
 ref = t;
 },
@@ -39,6 +42,9 @@ layerId = m004;
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 494F74B6;
+};
 pos = (11,0);
 ref = t;
 },
@@ -70,11 +76,17 @@ layerId = "D54810B1-F9A5-4F35-A1FF-AED0599B2373";
 shapes = (
 {
 alignment = -1;
+attr = {
+identifier = 5A766DB7;
+};
 pos = (11,0);
 ref = t;
 },
 {
 alignment = -1;
+attr = {
+identifier = "89022160";
+};
 pos = (140,6);
 ref = caroncomb.alt;
 }

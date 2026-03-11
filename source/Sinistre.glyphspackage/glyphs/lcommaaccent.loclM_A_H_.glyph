@@ -9,6 +9,9 @@ ref = l;
 },
 {
 alignment = -1;
+attr = {
+identifier = 6029EB5B;
+};
 pos = (-164,22);
 ref = commaaccentcomb.loclMAH;
 }
@@ -39,6 +42,9 @@ ref = l;
 },
 {
 alignment = -1;
+attr = {
+identifier = CA84BC8D;
+};
 pos = (-178,14);
 ref = commaaccentcomb.loclMAH;
 }
@@ -69,6 +75,9 @@ ref = l;
 },
 {
 alignment = -1;
+attr = {
+identifier = 31EDBEF1;
+};
 pos = (-144,0);
 ref = commaaccentcomb.loclMAH;
 }

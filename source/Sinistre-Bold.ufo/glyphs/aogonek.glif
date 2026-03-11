@@ -7,8 +7,8 @@
   <anchor x="467" y="10" name="ogonek"/>
   <anchor x="287" y="500" name="top"/>
   <outline>
-    <component base="a" xOffset="7" identifier="A12E9E3E"/>
-    <component base="ogonekcomb" xScale="0.9862" xyScale="-0.1653" yScale="0.9862" yxScale="0.1653" xOffset="345" yOffset="24" identifier="A895D595"/>
+    <component base="a" xOffset="7" identifier="6DAB768A"/>
+    <component base="ogonekcomb" xScale="0.9862" xyScale="-0.1653" yScale="0.9862" yxScale="0.1653" xOffset="345" yOffset="24" identifier="C13B5F2C"/>
   </outline>
   <lib>
     <dict>
@@ -41,12 +41,12 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A12E9E3E</key>
+        <key>6DAB768A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A895D595</key>
+        <key>C13B5F2C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

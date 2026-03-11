@@ -3,7 +3,7 @@
   <advance width="286"/>
   <unicode hex="00BA"/>
   <outline>
-    <component base="o" xScale="0.45" yScale="0.45" xOffset="16" yOffset="498" identifier="C4040F2F"/>
+    <component base="o" xScale="0.45" yScale="0.45" xOffset="16" yOffset="498" identifier="C42CE231"/>
   </outline>
   <lib>
     <dict>
@@ -40,7 +40,7 @@
       <string>o</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>C4040F2F</key>
+        <key>C42CE231</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

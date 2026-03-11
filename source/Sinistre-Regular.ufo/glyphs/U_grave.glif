@@ -4,7 +4,7 @@
   <unicode hex="00D9"/>
   <outline>
     <component base="U"/>
-    <component base="gravecomb.case" xOffset="170" yOffset="212" identifier="11129D09"/>
+    <component base="gravecomb.case" xOffset="170" yOffset="212" identifier="2125765D"/>
   </outline>
   <lib>
     <dict>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>11129D09</key>
+        <key>2125765D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

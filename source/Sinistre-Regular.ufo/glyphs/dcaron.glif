@@ -3,7 +3,7 @@
   <advance width="627"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="d" identifier="4EB33DD7"/>
+    <component base="d" identifier="DF470781"/>
     <component base="caroncomb.alt" xOffset="464" yOffset="39"/>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
       </dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>4EB33DD7</key>
+        <key>DF470781</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
